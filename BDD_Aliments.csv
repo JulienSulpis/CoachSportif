@@ -1,0 +1,823 @@
+Famille;Nom;Energie (kcal/100g);Protéines (g/100g);Glucides (g/100g);Lipides (g/100g);Sucres (g/100g);Eau (g/100g);;Portion (g) ;Energie (kcal/portion);Protéines (g/portion);Glucides (g/portion);Lipides (g/portion);Eau (g/portion)
+Céréales petit déjeuner et barres céréalières;"Barre céréalière ""équilibre"" au chocolat, enrichie en vitamines et minéraux";397;8,5;75,7;6,5;34,7;5;;40;158,8;3,4;30,28;2,6;2
+Céréales petit déjeuner et barres céréalières;"Barre céréalière ""équilibre"" aux fruits, enrichie en vitamines et minéraux";382;8;72,8;6,5;33,1;8,9;;40;152,8;3,2;29,12;2,6;3,56
+Céréales petit déjeuner et barres céréalières;Barre céréalière à base de céréales pour petit déjeuner et de lait, enrichie en vitamines et minéraux;436;7;72;13,3;37,7;5;;40;174,4;2,8;28,8;5,32;2
+Céréales petit déjeuner et barres céréalières;Barre céréalière aux amandes ou noisettes;451;7;63,2;18,5;27,9;7,5;;40;180,4;2,8;25,28;7,4;3
+Céréales petit déjeuner et barres céréalières;Barre céréalière aux fruits;391;6,3;69,4;8,91;28,1;10;;40;156,4;2,52;27,76;3,564;4
+Céréales petit déjeuner et barres céréalières;Barre céréalière chocolatée;442;6,27;65,7;16,4;30,8;6,22;;40;176,8;2,508;26,28;6,56;2,488
+Céréales petit déjeuner et barres céréalières;Barre céréalière diététique hypocalorique;353;27;33,4;12,4;11,5;9,5;;40;141,2;10,8;13,36;4,96;3,8
+Céréales petit déjeuner et barres céréalières;Boules de maïs soufflées au miel, enrichies en vitamines et minéraux;386;5;86,7;1,63;32,8;3;;40;154,4;2;34,68;0,652;1,2
+Céréales petit déjeuner et barres céréalières;"Céréales pour petit déjeuner ""équilibre"" au chocolat, enrichies en vitamines et minéraux";401;11,8;72,1;6,47;25,6;4,16;;40;160,4;4,72;28,84;2,588;1,664
+Céréales petit déjeuner et barres céréalières;"Céréales pour petit déjeuner ""équilibre"" aux fruits, enrichies en vitamines et minéraux";383;14;73,4;2,7;23,6;3;;40;153,2;5,6;29,36;1,08;1,2
+Céréales petit déjeuner et barres céréalières;"Céréales pour petit déjeuner ""équilibre"" nature, enrichies en vitamines et minéraux";382;12,7;78,3;1,33;17;2,81;;40;152,8;5,08;31,32;0,532;1,124
+Céréales petit déjeuner et barres céréalières;Céréales pour petit déjeuner chocolatées, non fourrées, enrichies en vitamines et minéraux;391;4,17;83,2;4;31;3,53;;40;156,4;1,668;33,28;1,6;1,412
+Céréales petit déjeuner et barres céréalières;Céréales pour petit déjeuner fourrées au chocolat ou chocolat0noisettes, enrichies en vitamines et minéraux;439;8,43;67,2;14,3;30,1;3,6;;40;175,6;3,372;26,88;5,72;1,44
+Céréales petit déjeuner et barres céréalières;Céréales pour petit déjeuner fourrées, fourrage autre que chocolat, enrichies en vitamines et minéraux;423;5,66;64,9;14,5;26,8;8,6;;40;169,2;2,264;25,96;5,8;3,44
+Céréales petit déjeuner et barres céréalières;Céréales pour petit déjeuner riches en fibres, enrichies en vitamines et minéraux;362;10,5;64,2;3,7;23,4;3,66;;40;144,8;4,2;25,68;1,48;1,464
+Céréales petit déjeuner et barres céréalières;Flocons d'avoine, cuits à l'eau;65,7;1,5;11,5;1,1;0,455;83,9;;40;26,28;0,6;4,6;0,44;33,56
+Céréales petit déjeuner et barres céréalières;Grains de blé soufflés au miel ou caramel, enrichis en vitamines et minéraux;389;6,5;84,2;2,08;43;2;;40;155,6;2,6;33,68;0,832;0,8
+Céréales petit déjeuner et barres céréalières;Grains de blé soufflés chocolatés, enrichis en vitamines et minéraux;389;8,82;75,5;4,29;44,5;2,66;;40;155,6;3,528;30,2;1,716;1,064
+Céréales petit déjeuner et barres céréalières;Muesli croustillant au chocolat, enrichi en vitamines et minéraux;453;8,5;61,6;17,4;24;2,76;;40;181,2;3,4;24,64;6,96;1,104
+Céréales petit déjeuner et barres céréalières;Muesli croustillant aux fruits ou fruits secs, enrichi en vitamines et minéraux;451;7,51;61,5;17,7;29,3;4,03;;40;180,4;3,004;24,6;7,08;1,612
+Céréales petit déjeuner et barres céréalières;Muesli floconneux aux fruits ou fruits secs, enrichi en vitamines et minéraux;374;9;69,4;5,28;24;7,87;;40;149,6;3,6;27,76;2,112;3,148
+Céréales petit déjeuner et barres céréalières;Muesli floconneux aux fruits ou fruits secs, sans sucre ajouté;378;11,3;61,8;7,63;16;9,18;;40;151,2;4,52;24,72;3,052;3,672
+Céréales petit déjeuner et barres céréalières;Multi0céréales soufflées ou extrudées, enrichies en vitamines et minéraux;415;7,5;75;8,75;28,5;3;;40;166;3;30;3,5;1,2
+Céréales petit déjeuner et barres céréalières;Pétales de blé avec noix, noisettes ou amandes, enrichis en vitamines et minéraux;389;10,4;67,3;6,74;20,8;5;;40;155,6;4,16;26,92;2,696;2
+Céréales petit déjeuner et barres céréalières;Pétales de blé chocolatés, enrichis en vitamines et minéraux;390;4,5;83,7;3,12;37;2,35;;40;156;1,8;33,48;1,248;0,94
+Céréales petit déjeuner et barres céréalières;Pétales de maïs glacés au sucre, enrichis en vitamines et minéraux;381;6;85,5;1,16;37,2;3,3;;40;152,4;2,4;34,2;0,464;1,32
+Céréales petit déjeuner et barres céréalières;Pétales de maïs natures, enrichis en vitamines et minéraux;378;7,5;83,7;0,764;8;2,98;;40;151,2;3;33,48;0,3056;1,192
+Céréales petit déjeuner et barres céréalières;Riz soufflé au chocolat, enrichi en vitamines et minéraux;395;5,26;83,7;3,8;34,8;2,78;;40;158;2,104;33,48;1,52;1,112
+Céréales petit déjeuner et barres céréalières;Riz soufflé nature, enrichi en vitamines et minéraux;387;6,68;86,3;1,23;8,2;2,24;;40;154,8;2,672;34,52;0,492;0,896
+Charcuteries et salaisons;Andouille;221;18,4;0,3;16,2;0;60,5;;100;221;18,4;0,3;16,2;60,5
+Charcuteries et salaisons;Andouille, réchauffée à la poêle;270;22,5;0;20;0;55,5;;100;270;22,5;0;20;55,5
+Charcuteries et salaisons;Andouillette, poêlée;276;24,5;1;19,3;0,2;48,7;;100;276;24,5;1;19,3;48,7
+Charcuteries et salaisons;Bloc de foie gras de canard, appertisé;511;9;0,85;52,4;0;36,1;;100;511;9;0,85;52,4;36,1
+Charcuteries et salaisons;Boudin blanc, poêlé;226;10,1;5,63;18,1;0;61,4;;100;226;10,1;5,63;18,1;61,4
+Charcuteries et salaisons;Boudin noir, poêlé;261;14,8;1,8;21,6;1,29;53,9;;100;261;14,8;1,8;21,6;53,9
+Charcuteries et salaisons;Cervelas;292;12;1,3;26,5;0;61,1;;100;292;12;1,3;26,5;61,1
+Charcuteries et salaisons;Chipolata, cuite;338;19;8,38;25,4;0;45,8;;100;338;19;8,38;25,4;45,8
+Charcuteries et salaisons;Chorizo;477;21,1;3,5;42,1;1,15;26,3;;100;477;21,1;3,5;42,1;26,3
+Charcuteries et salaisons;Confit de canard;217;30,7;0;10,5;0;57,3;;100;217;30,7;0;10,5;57,3
+Charcuteries et salaisons;Coppa;232;23,9;0,2;15,1;0,2;51,9;;100;232;23,9;0,2;15,1;51,9
+Charcuteries et salaisons;Filet de bacon, cuit;116;23;0,7;2,3;0;68,2;;100;116;23;0,7;2,3;68,2
+Charcuteries et salaisons;Foie gras de canard, appertisé ou pasteurisé;485;6,9;1,6;50,1;0;36,5;;100;485;6,9;1,6;50,1;36,5
+Charcuteries et salaisons;Fromage de tête;168;14,7;0,2;12;0,3;66,5;;100;168;14,7;0,2;12;66,5
+Charcuteries et salaisons;Galantine;239;15,9;6,52;16,5;0;58,4;;100;239;15,9;6,52;16,5;58,4
+Charcuteries et salaisons;Jambon cru;232;21,1;0,45;16,2;0,9;51,4;;100;232;21,1;0,45;16,2;51,4
+Charcuteries et salaisons;Jambon cru, fumé;225;24;0,1;14,3;0;52,6;;100;225;24;0,1;14,3;52,6
+Charcuteries et salaisons;Jambon cuit;121;17,9;1,26;4,93;1,26;73;;100;121;17,9;1,26;4,93;73
+Charcuteries et salaisons;Jambon cuit supérieur;114;21,1;0,6;3,02;0,2;73,4;;100;114;21,1;0,6;3,02;73,4
+Charcuteries et salaisons;Jambon cuit supérieur, DD;114;20,9;0,425;3,15;1;73,1;;100;114;20,9;0,425;3,15;73,1
+Charcuteries et salaisons;Jambon cuit, de Paris, DD;107;18;1,8;3,12;0,55;73,2;;100;107;18;1,8;3,12;73,2
+Charcuteries et salaisons;Jambon cuit, fumé;101;19;0,45;2,59;0,367;71,7;;100;101;19;0,45;2,59;71,7
+Charcuteries et salaisons;Jambon de volaille;107;21,4;0,5;2,14;0,462;72,7;;100;107;21,4;0,5;2,14;72,7
+Charcuteries et salaisons;Jambon en croûte;246;14,5;14,8;14,2;1,58;52,2;;100;246;14,5;14,8;14,2;52,2
+Charcuteries et salaisons;Jambon sec, découenné, dégraissé;195;26,6;1,77;9,07;0,3;54,8;;100;195;26,6;1,77;9,07;54,8
+Charcuteries et salaisons;Jambonneau, cuit;144;20,6;1,1;6,41;0,757;72,2;;100;144;20,6;1,1;6,41;72,2
+Charcuteries et salaisons;Lardon fumé, cru;264;16,4;0,6;21,8;0,46;57,6;;100;264;16,4;0,6;21,8;57,6
+Charcuteries et salaisons;Lardon fumé, cuit;258;14,7;0;22,1;0;61,7;;100;258;14,7;0;22,1;61,7
+Charcuteries et salaisons;Lardon nature, cru;266;15,4;0,4;22,5;0,4;55,4;;100;266;15,4;0,4;22,5;55,4
+Charcuteries et salaisons;Lardon nature, cuit;329;23,8;2;25,1;0;45;;100;329;23,8;2;25,1;45
+Charcuteries et salaisons;Merguez, boeuf et mouton, cuite;283;19,8;0,215;22,6;1,22;52,4;;100;283;19,8;0,215;22,6;52,4
+Charcuteries et salaisons;Mortadelle;313;14,1;1,4;27,9;0;55,1;;100;313;14,1;1,4;27,9;55,1
+Charcuteries et salaisons;Mousse de foie;317;10,5;3,62;28,9;2,53;54,1;;100;317;10,5;3,62;28,9;54,1
+Charcuteries et salaisons;Museau de porc vinaigrette;281;14,4;0,8;24,5;0;57,3;;100;281;14,4;0,8;24,5;57,3
+Charcuteries et salaisons;Pancetta ou Poitrine roulée sèche;355;21,3;0,35;29,8;0,1;44,7;;100;355;21,3;0,35;29,8;44,7
+Charcuteries et salaisons;Pâté de campagne;333;14,7;3,47;28,9;0,88;53,7;;100;333;14,7;3,47;28,9;53,7
+Charcuteries et salaisons;Pâté de foie de porc;346;10,6;2,3;32,7;0;51,2;;100;346;10,6;2,3;32,7;51,2
+Charcuteries et salaisons;Pâté de foie de volaille;234;11,9;6;18;0;60,2;;100;234;11,9;6;18;60,2
+Charcuteries et salaisons;Pâté de lapin;274;14,8;2;23;2;62,1;;100;274;14,8;2;23;62,1
+Charcuteries et salaisons;Pâté en croûte;270;11,9;11,8;19,7;1,2;47,8;;100;270;11,9;11,8;19,7;47,8
+Charcuteries et salaisons;Poitrine de porc, fumée, crue;312;16,5;0;27,3;0,6;54,1;;100;312;16,5;0;27,3;54,1
+Charcuteries et salaisons;Quenelle au naturel, appertisée;199;4,9;9,33;15,7;0;68,9;;100;199;4,9;9,33;15,7;68,9
+Charcuteries et salaisons;Quenelle de volaille, appertisée;185;6,8;9,93;13;1;67,9;;100;185;6,8;9,93;13;67,9
+Charcuteries et salaisons;Quenelle en sauce, appertisée;151;3,6;8,54;11,3;0;75,3;;100;151;3,6;8,54;11,3;75,3
+Charcuteries et salaisons;Rillettes de viandes autres que pur porc (volaille...);424;15,1;0,117;40,3;0,1;43,2;;100;424;15,1;0,117;40,3;43,2
+Charcuteries et salaisons;Rillettes pur porc;410;14,2;0,1;39,2;0,1;44,3;;100;410;14,2;0,1;39,2;44,3
+Charcuteries et salaisons;Rillettes traditionnelles de porc;417;14,3;0,1;39,9;0,1;40,5;;100;417;14,3;0,1;39,9;40,5
+Charcuteries et salaisons;Rosette ou Fuseau;402;24,9;2;32,7;0,3;39;;100;402;24,9;2;32,7;39
+Charcuteries et salaisons;Salami;482;18,1;1,23;45;1,23;31,6;;100;482;18,1;1,23;45;31,6
+Charcuteries et salaisons;Saucisse alsacienne fumée ou Gendarme;351;21;3,31;28,2;0;44,1;;100;351;21;3,31;28,2;44,1
+Charcuteries et salaisons;Saucisse cocktail;299;12,7;1,35;27;0;56,8;;100;299;12,7;1,35;27;56,8
+Charcuteries et salaisons;Saucisse de Francfort;293;12,1;1,15;26,7;0,151;56,7;;100;293;12,1;1,15;26,7;56,7
+Charcuteries et salaisons;Saucisse de Montbéliard;325;15,7;0,7;28,8;0;50,5;;100;325;15,7;0,7;28,8;50,5
+Charcuteries et salaisons;Saucisse de Morteau, cuite à l'eau;333;15,2;0;30,2;0;51,7;;100;333;15,2;0;30,2;51,7
+Charcuteries et salaisons;Saucisse de Strasbourg;287;12,5;1;25,9;0,516;57;;100;287;12,5;1;25,9;57
+Charcuteries et salaisons;Saucisse de Toulouse, cuite;311;18,8;1,1;25,7;0,6;54,9;;100;311;18,8;1,1;25,7;54,9
+Charcuteries et salaisons;Saucisson à l'ail;286;14,6;0,7;25;0;54,8;;100;286;14,6;0,7;25;54,8
+Charcuteries et salaisons;Saucisson sec;410;26,5;1,23;33,2;0,1;30,1;;100;410;26,5;1,23;33,2;30,1
+Charcuteries et salaisons;Saucisson sec pur porc;405;26,2;1,9;32,9;1,9;35;;100;405;26,2;1,9;32,9;35
+Charcuteries et salaisons;Terrine de canard;310;15,2;3,53;26,1;0;52,8;;100;310;15,2;3,53;26,1;52,8
+Charcuteries et salaisons;Viande des Grisons;201;37,4;0,62;5,47;0,3;53,5;;100;201;37,4;0,62;5,47;53,5
+Confitures;Confiture allégée en sucre, tout type;180;0,493;43,6;0,2;43,6;54,2;;30;54;0,1479;13,08;0,06;16,26
+Confitures;Confiture d'abricot;232;0,3;56,6;0,25;53,4;41,1;;30;69,6;0,09;16,98;0,075;12,33
+Confitures;Confiture de cerise;245;0,47;59,9;0,22;54,5;38;;30;73,5;0,141;17,97;0,066;11,4
+Confitures;Confiture de fraise;262;0,4;64;0,7;60;37,3;;30;78,6;0,12;19,2;0,21;11,19
+Confitures;Confiture de framboise;246;0,5;58,6;0,6;50,8;38,4;;30;73,8;0,15;17,58;0,18;11,52
+Confitures;Confiture de myrtilles;250;0,4;60,5;0,25;57,1;36,7;;30;75;0,12;18,15;0,075;11,01
+Confitures;Confiture ou Marmelade d'orange;241;0,3;58,7;0,25;49,2;39;;30;72,3;0,09;17,61;0,075;11,7
+Confitures;Préparation de fruits;182;0,66;43,4;0,253;0;53,6;;30;54,6;0,198;13,02;0,0759;16,08
+Desserts lactés frais ou UHT;Crème anglaise;110;2,76;17,7;3,17;13,5;75,6;;100;110;2,76;17,7;3,17;75,6
+Desserts lactés frais ou UHT;Crème brûlée;300;4,33;16,2;24,3;15,4;54,6;;100;300;4,33;16,2;24,3;54,6
+Desserts lactés frais ou UHT;Crème caramel;136;4,41;23,6;2,67;20;68,4;;100;136;4,41;23,6;2,67;68,4
+Desserts lactés frais ou UHT;Crème chantilly sous pression, UHT;285;2,26;9,56;26,4;8;61,3;;100;285;2,26;9,56;26,4;61,3
+Desserts lactés frais ou UHT;Crème dessert à la vanille, appertisée;123;3,5;16,7;4,6;14,4;74;;100;123;3,5;16,7;4,6;74
+Desserts lactés frais ou UHT;Crème dessert à la vanille, rayon frais;127;3,64;19,3;4;15,4;71,2;;100;127;3,64;19,3;4;71,2
+Desserts lactés frais ou UHT;Crème dessert allégée en matière grasse, rayon frais;87,5;3,8;16,7;0,679;12,5;78;;100;87,5;3,8;16,7;0,679;78
+Desserts lactés frais ou UHT;Crème dessert au chocolat, appertisée;141;3,8;22,9;3,65;16,8;67,6;;100;141;3,8;22,9;3,65;67,6
+Desserts lactés frais ou UHT;Crème dessert au chocolat, rayon frais;137;4,1;19,5;5,07;16,3;71,2;;100;137;4,1;19,5;5,07;71,2
+Desserts lactés frais ou UHT;Crème dessert aux oeufs ou crème renversée;175;4,47;22,8;7,41;18,7;64,6;;100;175;4,47;22,8;7,41;64,6
+Desserts lactés frais ou UHT;Crème pâtissière;118;2,9;22,8;1,7;16,5;72,1;;100;118;2,9;22,8;1,7;72,1
+Desserts lactés frais ou UHT;Ile flottante;138;4,67;21,3;3,76;19,3;69,7;;100;138;4,67;21,3;3,76;69,7
+Desserts lactés frais ou UHT;Lait de poule, sans alcool;92,6;3,8;10,2;4,1;8,4;81,2;;100;92,6;3,8;10,2;4,1;81,2
+Desserts lactés frais ou UHT;Lait gélifié aromatisé chocolat, rayon frais;144;3,18;26;3,1;21,3;66,9;;100;144;3,18;26;3,1;66,9
+Desserts lactés frais ou UHT;Lait gélifié aromatisé nappé de caramel, rayon frais;116;2,97;21,6;1,88;19,4;72,6;;100;116;2,97;21,6;1,88;72,6
+Desserts lactés frais ou UHT;Milk0shake, tout parfum;109;3,5;19,7;1,8;17,1;73,9;;100;109;3,5;19,7;1,8;73,9
+Desserts lactés frais ou UHT;Viennois ou liégeois, chocolat, café, caramel ou vanille, rayon frais;155;3,3;15,9;8,76;14;71,2;;100;155;3,3;15,9;8,76;71,2
+Eaux;Eau minérale;0;0;0;0;0;100;;100;0;0;0;0;100
+Entremets et glaces;Barre chocolatée glacée;355;6,21;38,1;19,6;24,4;33,7;;100;355;6,21;38,1;19,6;33,7
+Entremets et glaces;Clafoutis aux fruits;212;5;31,1;7,45;20,5;54,6;;100;212;5;31,1;7,45;54,6
+Entremets et glaces;Crème glacée;184;3,58;19,7;10,1;19,7;65,5;;100;184;3,58;19,7;10,1;65,5
+Entremets et glaces;Crème glacée au chocolat;192;4,08;17,5;10,8;15,7;62,5;;100;192;4,08;17,5;10,8;62,5
+Entremets et glaces;Dessert fermenté au soja, aux fruits, enrichi en vitamines et/ou minéraux, rayon frais;85,7;3,41;12,8;2,17;9,63;80,9;;100;85,7;3,41;12,8;2,17;80,9
+Entremets et glaces;Dessert fermenté au soja, nature, rayon frais;53,2;4,27;2,59;2,68;1,5;90,1;;100;53,2;4,27;2,59;2,68;90,1
+Entremets et glaces;Dessert soja aromatisé, rayon frais;114;2,87;21,3;1,75;9,42;73,3;;100;114;2,87;21,3;1,75;73,3
+Entremets et glaces;Gâteau de riz nappé de caramel, rayon frais;146;3,57;25,2;3,31;17,8;66,7;;100;146;3,57;25,2;3,31;66,7
+Entremets et glaces;Gâteau de semoule, appertisé;142;3,68;24,1;3,21;16,7;67,5;;100;142;3,68;24,1;3,21;67,5
+Entremets et glaces;Glace en cornet;278;4,15;33,1;14,2;21,8;46,5;;100;278;4,15;33,1;14,2;46,5
+Entremets et glaces;Glace sur bâtonnet, enrobée de chocolat;264;2,2;31,7;14,2;24,7;49,6;;100;264;2,2;31,7;14,2;49,6
+Entremets et glaces;Mousse à la crème de marrons;244;2,31;37,9;9,06;0;49,4;;100;244;2,31;37,9;9,06;49,4
+Entremets et glaces;Mousse au chocolat, rayon frais;164;5,34;18,2;7,7;17,2;67,3;;100;164;5,34;18,2;7,7;67,3
+Entremets et glaces;Mousse aux fruits;149;2,59;16,9;7,85;13,6;73,5;;100;149;2,59;16,9;7,85;73,5
+Entremets et glaces;Omelette norvégienne;286;4,42;41,2;11,3;35,2;41,5;;100;286;4,42;41,2;11,3;41,5
+Entremets et glaces;Pain perdu;234;6,28;31,2;9;14,1;51;;100;234;6,28;31,2;9;51
+Entremets et glaces;Pêche melba;119;2,05;18,8;3,62;18,2;73,5;;100;119;2,05;18,8;3,62;73,5
+Entremets et glaces;Poire belle Hélène;196;2,92;23,3;9,57;21;60,7;;100;196;2,92;23,3;9,57;60,7
+Entremets et glaces;Profiterole avec glace vanille et sauce chocolat;208;4,63;24,8;9,9;14,9;58,9;;100;208;4,63;24,8;9,9;58,9
+Entremets et glaces;Riz au lait, rayon frais;124;3,2;20,7;3,08;12,7;72;;100;124;3,2;20,7;3,08;72
+Entremets et glaces;Semoule au lait, rayon frais;125;3,38;18,6;3,24;11,3;70,3;;100;125;3,38;18,6;3,24;70,3
+Entremets et glaces;Sorbet;123;0,795;26;1,55;26;69,8;;100;123;0,795;26;1,55;69,8
+Entremets et glaces;Tiramisu;280;3,82;37,5;12,5;21,1;44;;100;280;3,82;37,5;12,5;44
+Fromages affinés à pâte dure;Beaufort;393;26,6;3,71;30,3;0;34,3;;70;275,1;18,62;2,597;21,21;24,01
+Fromages affinés à pâte dure;Comté;417;28,1;0;34;0;31,5;;70;291,9;19,67;0;23,8;22,05
+Fromages affinés à pâte dure;Emmental;367;28,2;0;28,3;0;37,5;;70;256,9;19,74;0;19,81;26,25
+Fromages affinés à pâte dure;Emmental râpé;381;27,8;0,05;30;0,05;38,1;;70;266,7;19,46;0,035;21;26,67
+Fromages affinés à pâte dure;Fromâge à pate pressée cuite type Emmental, allégé;291;33,2;2;17;1,9;47;;70;203,7;23,24;1,4;11,9;32,9
+Fromages affinés à pâte dure;Gruyère;414;27,2;1,4;33,4;0,36;33,3;;70;289,8;19,04;0,98;23,38;23,31
+Fromages affinés à pâte dure;Parmesan;441;39,4;1,87;30,9;0,4;22,7;;70;308,7;27,58;1,309;21,63;15,89
+Fromages affinés à pâte ferme;Cantal, Salers ou Laguiole;371;24,7;0,184;30,3;0;40,5;;70;259,7;17,29;0,1288;21,21;28,35
+Fromages affinés à pâte ferme;Cheddar;403;25,5;0,5;33,4;0,5;36;;70;282,1;17,85;0,35;23,38;25,2
+Fromages affinés à pâte ferme;Edam;312;32,6;0;20,5;0;43,9;;70;218,4;22,82;0;14,35;30,73
+Fromages affinés à pâte ferme;Gouda;363;24;0;29,9;0;38,6;;70;254,1;16,8;0;20,93;27,02
+Fromages affinés à pâte ferme;Mimolette;329;24,9;0;25,7;0;40,3;;70;230,3;17,43;0;17,99;28,21
+Fromages affinés à pâte ferme;Morbier;347;23,6;3,14;26,9;0;42,3;;70;242,9;16,52;2,198;18,83;29,61
+Fromages affinés à pâte ferme;Port0Salut;331;23,8;0,57;26,1;0,57;48,7;;70;231,7;16,66;0,399;18,27;34,09
+Fromages affinés à pâte ferme;Raclette (fromage);367;25;0,687;29,6;0;41,1;;70;256,9;17,5;0,4809;20,72;28,77
+Fromages affinés à pâte ferme;Saint Nectaire;339;24,4;0,228;26,9;0;42,3;;70;237,3;17,08;0,1596;18,83;29,61
+Fromages affinés à pâte ferme;Saint Paulin;370;23,5;0,9;30,4;0;42,8;;70;259;16,45;0,63;21,28;29,96
+Fromages affinés à pâte ferme;Tomme;343;28,6;0;25,6;0;41,8;;70;240,1;20,02;0;17,92;29,26
+Fromages affinés à pâte ferme;Tomme de montagne ou Tomme de Savoie;361;22,6;0,234;30,1;0;42,1;;70;252,7;15,82;0,1638;21,07;29,47
+Fromages affinés à pâte molle;Brie;337;19,6;2,2;27,9;1;48,9;;70;235,9;13,72;1,54;19,53;34,23
+Fromages affinés à pâte molle;Camembert au lait cru;267;20,4;1,22;20,2;0,1;55,4;;70;186,9;14,28;0,854;14,14;38,78
+Fromages affinés à pâte molle;Camembert environ 20% MG;270;22,4;0,376;20;0,376;54,1;;70;189;15,68;0,2632;14;37,87
+Fromages affinés à pâte molle;Camembert et apparentés environ 26% MG;313;19,5;0,2;26,2;0;50,5;;70;219,1;13,65;0,14;18,34;35,35
+Fromages affinés à pâte molle;Carré de l'Est;299;21;0;24;0;54,5;;70;209,3;14,7;0;16,8;38,15
+Fromages affinés à pâte molle;Chabichou;346;20,1;1,73;25,6;1,33;47,4;;70;242,2;14,07;1,211;17,92;33,18
+Fromages affinés à pâte molle;Chaource;272;17,4;1,35;22;0;56;;70;190,4;12,18;0,945;15,4;39,2
+Fromages affinés à pâte molle;Chevrot;288;18,5;1,25;22,8;1,25;55,4;;70;201,6;12,95;0,875;15,96;38,78
+Fromages affinés à pâte molle;Coulommiers;292;19,4;0;24;0;54,5;;70;204,4;13,58;0;16,8;38,15
+Fromages affinés à pâte molle;Crottin de chavignol;329;19,7;1,25;26,9;1,25;50,8;;70;230,3;13,79;0,875;18,83;35,56
+Fromages affinés à pâte molle;Crottin de chèvre;353;20,5;1,82;28,9;1,82;44,1;;70;247,1;14,35;1,274;20,23;30,87
+Fromages affinés à pâte molle;Crottin de chèvre, au lait cru;369;23,2;0,83;30;0,83;48,3;;70;258,3;16,24;0,581;21;33,81
+Fromages affinés à pâte molle;Langres;292;17,2;0,68;24,6;0,68;55,1;;70;204,4;12,04;0,476;17,22;38,57
+Fromages affinés à pâte molle;Livarot;294;22,5;4,85;20,7;0;48,5;;70;205,8;15,75;3,395;14,49;33,95
+Fromages affinés à pâte molle;Maroilles;348;28,2;0;26,4;0;42,4;;70;243,6;19,74;0;18,48;29,68
+Fromages affinés à pâte molle;Munster;339;23,4;1,12;27;1,12;48,5;;70;237,3;16,38;0,784;18,9;33,95
+Fromages affinés à pâte molle;Neufchâtel;255;9,15;3,49;22,8;3,02;63,1;;70;178,5;6,405;2,443;15,96;44,17
+Fromages affinés à pâte molle;Pélardon;352;23,8;0,85;27,8;0,85;43,6;;70;246,4;16,66;0,595;19,46;30,52
+Fromages affinés à pâte molle;Picodon;365;20,9;1,33;30,3;1,33;45,9;;70;255,5;14,63;0,931;21,21;32,13
+Fromages affinés à pâte molle;Pont l'Évêque;284;21;0;22,4;0;53,2;;70;198,8;14,7;0;15,68;37,24
+Fromages affinés à pâte molle;Pouligny Saint0Pierre;328;20,2;0,45;26,8;0,45;49,2;;70;229,6;14,14;0,315;18,76;34,44
+Fromages affinés à pâte molle;Reblochon;330;20,8;0,094;27,6;0;47,7;;70;231;14,56;0,0658;19,32;33,39
+Fromages affinés à pâte molle;Rocamadour;309;23,2;0,9;23,2;0,9;54,2;;70;216,3;16,24;0,63;16,24;37,94
+Fromages affinés à pâte molle;Rouy;335;22,5;1;27;0;46,5;;70;234,5;15,75;0,7;18,9;32,55
+Fromages affinés à pâte molle;Sainte0Maure;344;21,8;1,15;28,2;0,875;48,2;;70;240,8;15,26;0,805;19,74;33,74
+Fromages affinés à pâte molle;Saint0Marcellin;283;12,7;1,01;25,4;0;58,1;;70;198,1;8,89;0,707;17,78;40,67
+Fromages affinés à pâte molle;Vacherin Mont d'Or;288;17,6;0,671;24;0;54,1;;70;201,6;12,32;0,4697;16,8;37,87
+Fromages affinés à pâte molle;Valençay;282;17,5;2,05;22,2;2,05;55,5;;70;197,4;12,25;1,435;15,54;38,85
+Fromages affinés à pâte persillée;Fourme d'Ambert;353;19,8;4,14;28,5;0;42,9;;70;247,1;13,86;2,898;19,95;30,03
+Fromages affinés à pâte persillée;Fromage bleu au lait de vache;344;18,6;0,9;29,4;0;47,8;;70;240,8;13,02;0,63;20,58;33,46
+Fromages affinés à pâte persillée;Fromage bleu d'Auvergne;341;19,7;1,4;28,4;0;45,3;;70;238,7;13,79;0,98;19,88;31,71
+Fromages affinés à pâte persillée;Fromage bleu de Bresse;348;17,9;3;29,3;0;51,1;;70;243,6;12,53;2,1;20,51;35,77
+Fromages affinés à pâte persillée;Gorgonzola;360;19,4;0,1;31,2;0,1;42,4;;70;252;13,58;0,07;21,84;29,68
+Fromages affinés à pâte persillée;Roquefort;374;19,1;1,78;32,1;0;40,3;;70;261,8;13,37;1,246;22,47;28,21
+Fromages blancs ultrafrais;Fromage blanc battu 0% MG aux fruits, allégé en sucre, édulcoré;50,4;6,6;5,22;0,15;5,22;84,3;;70;35,28;4,62;3,654;0,105;59,01
+Fromages blancs ultrafrais;Fromage blanc battu 0% MG nature;45,5;7,4;4;0,18;4;86,8;;70;31,85;5,18;2,8;0,126;60,76
+Fromages blancs ultrafrais;Fromage blanc battu au lait demi0écrémé nature;75,4;7,54;3,68;3,22;3,42;84,5;;70;52,78;5,278;2,576;2,254;59,15
+Fromages blancs ultrafrais;Fromage blanc battu au lait entier nature;116;6,8;3,47;8,11;3;81,3;;70;81,2;4,76;2,429;5,677;56,91
+Fromages blancs ultrafrais;Fromage blanc battu au lait partiellement écrémé nature;111;10,3;3;6,3;0;78,8;;70;77,7;7,21;2,1;4,41;55,16
+Fromages blancs ultrafrais;Fromage blanc campagne 0% MG nature;40,2;4,3;4,85;0,18;4,2;85,2;;70;28,14;3,01;3,395;0,126;59,64
+Fromages blancs ultrafrais;Fromage blanc campagne au lait entier nature;94,2;3,77;3,9;6,85;3,6;81,8;;70;65,94;2,639;2,73;4,795;57,26
+Fromages blancs ultrafrais;Petit suisse à la crème, nature;139;9,5;3,6;9,5;3,6;75,2;;70;97,3;6,65;2,52;6,65;52,64
+Fromages blancs ultrafrais;Petit suisse au lait entier, nature;134;9,75;3,37;8,86;3,2;76,6;;70;93,8;6,825;2,359;6,202;53,62
+Fromages blancs ultrafrais;Spécialité laitière de fromage blanc, avec crème, aux fruits, sucrée;133;4,35;14,2;6,28;14,1;73,8;;70;93,1;3,045;9,94;4,396;51,66
+Fromages blancs ultrafrais;Spécialité laitière de fromage blanc, avec crème, nature;134;5,7;4,3;10,3;4,1;79,8;;70;93,8;3,99;3,01;7,21;55,86
+Fromages fondus;Cancoillotte (spécialité fromagère fondue);127;15;1;6,2;1;74,4;;70;88,9;10,5;0,7;4,34;52,08
+Fromages fondus;Fromage fondu en portions ou en cubes environ 15% MG;184;13,1;15,7;7,24;0;65,8;;70;128,8;9,17;10,99;5,068;46,06
+Fromages fondus;Fromage fondu en portions ou en cubes environ 22% MG;276;10,2;6,5;22,5;6,5;54,7;;70;193,2;7,14;4,55;15,75;38,29
+Fromages fondus;Snack pour enfants à base de fromage fondu et de gressins;319;10,7;24,1;18,9;3,1;42,6;;70;223,3;7,49;16,87;13,23;29,82
+Fromages fondus;Spécialité fromagère fondante au fromage blanc et aux noix;352;11,2;2,7;32;2,67;51,5;;70;246,4;7,84;1,89;22,4;36,05
+Fromages non affinés et spécialités fromagères;Feta de brebis;272;15,5;1,4;22,4;1,4;55,4;;70;190,4;10,85;0,98;15,68;38,78
+Fromages non affinés et spécialités fromagères;Fromage de chèvre à tartiner, nature;165;10,6;2,75;12,4;2,75;71;;70;115,5;7,42;1,925;8,68;49,7
+Fromages non affinés et spécialités fromagères;Fromage de chèvre frais, au lait cru (type palet ou crottin frais);211;13,1;1,83;16,9;1,83;65,6;;70;147,7;9,17;1,281;11,83;45,92
+Fromages non affinés et spécialités fromagères;Fromage de chèvre frais, au lait pasteurisé (type bûchette fraîche);250;16,1;2,05;19,9;2,05;61,4;;70;175;11,27;1,435;13,93;42,98
+Fromages non affinés et spécialités fromagères;Fromage de chèvre frais, au lait pasteurisé ou cru (type crottin frais ou bûchette fraîche);222;13,8;2,3;17,2;1,5;68,8;;70;155,4;9,66;1,61;12,04;48,16
+Fromages non affinés et spécialités fromagères;Fromage type Feta, au lait de vache;264;17,1;1,18;20,9;1,18;55;;70;184,8;11,97;0,826;14,63;38,5
+Fromages non affinés et spécialités fromagères;Mozzarella;259;19,9;0,4;19,4;0,4;58,3;;70;181,3;13,93;0,28;13,58;40,81
+Fromages non affinés et spécialités fromagères;Ricotta;160;11,5;3,75;10,5;3,75;72,7;;70;112;8,05;2,625;7,35;50,89
+Fruits frais;Abricot, frais;49,1;0,9;9,01;0,207;8,02;86,1;;120;58,92;1,08;10,812;0,2484;103,32
+Fruits frais;Ananas, frais, pulpe;52,6;0,4;11;0,2;9,24;85,8;;120;63,12;0,48;13,2;0,24;102,96
+Fruits frais;Banane, fraîche, pulpe;93,6;1,2;20,5;0,227;15,9;74,7;;120;112,32;1,44;24,6;0,2724;89,64
+Fruits frais;Carambole, frais, pulpe;27,3;0,78;2,91;0,343;2,91;91,4;;120;32,76;0,936;3,492;0,4116;109,68
+Fruits frais;Cassis, frais;73,2;0,9;10,4;0,5;6,6;77,4;;120;87,84;1,08;12,48;0,6;92,88
+Fruits frais;Cerise, fraîche;70,8;1,3;14,2;0,3;12,4;81,2;;120;84,96;1,56;17,04;0,36;97,44
+Fruits frais;Citron vert ou Lime, frais, pulpe;36,2;0,7;2,82;0,2;1,69;88,3;;120;43,44;0,84;3,384;0,24;105,96
+Fruits frais;Citron, frais, pulpe;34,3;0,8;2,45;0,3;2,2;89,2;;120;41,16;0,96;2,94;0,36;107,04
+Fruits frais;Citron, zeste;50,6;1,5;2,49;0,3;2,49;81,6;;120;60,72;1,8;2,988;0,36;97,92
+Fruits frais;Clémentine ou Mandarine, fraîche, pulpe;48,5;0,8;9,19;0,19;9,19;86,6;;120;58,2;0,96;11,028;0,228;103,92
+Fruits frais;Coing, frais;57,7;0,367;11,2;0,4;6,3;84;;120;69,24;0,4404;13,44;0,48;100,8
+Fruits frais;Coulis de fruits rouges (framboises, fraises, groseilles, cassis);90,1;0,94;17,5;0,475;17,4;75;;120;108,12;1,128;21;0,57;90
+Fruits frais;Figue de Barbarie, pulpe et graines;54,7;0,75;10,1;0,3;10,1;83;;120;65,64;0,9;12,12;0,36;99,6
+Fruits frais;Figue, fraîche;66,8;1,3;13,4;0,3;12,3;81,8;;120;80,16;1,56;16,08;0,36;98,16
+Fruits frais;Fraise, fraîche;28,5;0,75;4,06;0,26;4,05;91,6;;120;34,2;0,9;4,872;0,312;109,92
+Fruits frais;Framboise, fraîche;45,1;1,4;4,25;0,3;4,25;84,7;;120;54,12;1,68;5,1;0,36;101,64
+Fruits frais;Fruit de la passion, frais, pulpe et pépins;84,3;2,2;9,48;0,7;9,48;72,9;;120;101,16;2,64;11,376;0,84;87,48
+Fruits frais;Fruits rouges, frais (framboises, fraises, groseilles, cassis);46,8;1,11;5,3;0,626;5,23;85,7;;120;56,16;1,332;6,36;0,7512;102,84
+Fruits frais;Grenade, fraîche, pulpe et pépins;71,1;1,06;13,6;0,557;13,6;81;;120;85,32;1,272;16,32;0,6684;97,2
+Fruits frais;Groseille à maquereau, fraîche;40,3;0,893;4,83;0,593;0;87,9;;120;48,36;1,0716;5,796;0,7116;105,48
+Fruits frais;Groseille, fraîche;55,4;1,1;6,14;0,5;5,39;82,4;;120;66,48;1,32;7,368;0,6;98,88
+Fruits frais;Kaki, frais, pulpe;67,7;0,627;13,7;0,263;13,7;81;;120;81,24;0,7524;16,44;0,3156;97,2
+Fruits frais;Kiwi, frais, pulpe et graines;57,7;1,1;9,37;0,725;9,1;84,1;;120;69,24;1,32;11,244;0,87;100,92
+Fruits frais;Litchi, frais, pulpe;69,4;0,815;14;0,42;14;81,8;;120;83,28;0,978;16,8;0,504;98,16
+Fruits frais;Mangue, fraîche, pulpe;63,5;0,7;13,6;0,2;13,1;83,1;;120;76,2;0,84;16,32;0,24;99,72
+Fruits frais;Melon, frais, pulpe;32,1;0,71;6,49;0,148;5,94;91,1;;120;38,52;0,852;7,788;0,1776;109,32
+Fruits frais;Mirabelle, fraîche;61,8;0,72;12,4;0,2;0;82,7;;120;74,16;0,864;14,88;0,24;99,24
+Fruits frais;Mûre (de ronce), fraîche;45,4;0,9;6,02;0,2;5,1;85;;120;54,48;1,08;7,224;0,24;102
+Fruits frais;Mûre noire (du mûrier), fraîche;49,4;1,37;9,7;0,195;8,1;86,3;;120;59,28;1,644;11,64;0,234;103,56
+Fruits frais;Myrtille, fraîche;60,2;0,647;11,6;0,243;7,92;83,4;;120;72,24;0,7764;13,92;0,2916;100,08
+Fruits frais;Nectarine, fraîche, pulpe et peau;42,6;1,4;7,69;0,1;7,62;87,8;;120;51,12;1,68;9,228;0,12;105,36
+Fruits frais;Nèfle du Japon, fraîche, pulpe;55,7;0,41;12;0,267;6,1;85;;120;66,84;0,492;14,4;0,3204;102
+Fruits frais;Orange, fraîche, pulpe;46,5;0,957;8,32;0,26;8,32;87,1;;120;55,8;1,1484;9,984;0,312;104,52
+Fruits frais;Papaye, fraîche, pulpe;43,3;0,557;7,81;0,22;7,81;87,7;;120;51,96;0,6684;9,372;0,264;105,24
+Fruits frais;Pastèque, fraîche, pulpe;34;0,603;7,28;0,0833;6,29;91,1;;120;40,8;0,7236;8,736;0,09996;109,32
+Fruits frais;Pêche, fraîche, pulpe;54,2;0,7;11,3;0,25;11,3;88;;120;65,04;0,84;13,56;0,3;105,6
+Fruits frais;Pêche, fraîche, pulpe et peau;53,4;0,903;10,2;0,25;8,74;85,1;;120;64,08;1,0836;12,24;0,3;102,12
+Fruits frais;Poire, fraîche, pulpe et peau;53;0,385;10,8;0,22;10,4;85,1;;120;63,6;0,462;12,96;0,264;102,12
+Fruits frais;Pomélo (dit Pamplemousse), frais, pulpe;35,9;0,8;6,2;0,1;6,2;89,8;;120;43,08;0,96;7,44;0,12;107,76
+Fruits frais;Pomme, fraîche, pulpe et peau;53,2;0,31;11,3;0,162;11,3;85,3;;120;63,84;0,372;13,56;0,1944;102,36
+Fruits frais;Prune Reine0Claude, fraîche;48,7;0,8;9,6;0,28;9,6;81,9;;120;58,44;0,96;11,52;0,336;98,28
+Fruits frais;Raisin blanc, frais;70;0,6;16,1;0,16;16,1;82,2;;120;84;0,72;19,32;0,192;98,64
+Fruits frais;Raisin noir, frais;62,1;0,5;12,1;0,25;12,2;83,2;;120;74,52;0,6;14,52;0,3;99,84
+Fruits frais;Salade de fruits frais;83,5;0,73;18,3;0,33;17,1;78;;120;100,2;0,876;21,96;0,396;93,6
+Gâteaux et pâtisseries;Baba au rhum;234;3,2;29,9;8,76;18,5;53,9;;100;234;3,2;29,9;8,76;53,9
+Gâteaux et pâtisseries;Baklava ou Baklawa (pâtisserie orientale aux amandes et sirop);461;10,4;49,5;24,5;39,6;13,5;;100;461;10,4;49,5;24,5;13,5
+Gâteaux et pâtisseries;Biscuit de Savoie;311;5,9;68,3;0,8;0;19,2;;100;311;5,9;68,3;0,8;19,2
+Gâteaux et pâtisseries;Brownie au chocolat;471;4,69;54,4;25,5;35,7;11,5;;100;471;4,69;54,4;25,5;11,5
+Gâteaux et pâtisseries;Bûche de Noël pâtissière;320;4,2;30,7;19,7;20;43,4;;100;320;4,2;30,7;19,7;43,4
+Gâteaux et pâtisseries;Cake aux fruits;392;5;55,7;15,3;40,1;19,5;;100;392;5;55,7;15,3;19,5
+Gâteaux et pâtisseries;Canelé;302;4,4;62,7;3,24;42,5;26,3;;100;302;4,4;62,7;3,24;26,3
+Gâteaux et pâtisseries;Charlotte aux fruits;203;5,2;29,1;6,64;21,7;55,7;;100;203;5,2;29,1;6,64;55,7
+Gâteaux et pâtisseries;Chou à la crème (chantilly ou pâtissière);301;4,45;32,2;16,8;24,8;44,3;;100;301;4,45;32,2;16,8;44,3
+Gâteaux et pâtisseries;Chou à la crème chantilly;350;4,6;22,9;26,4;16;44,3;;100;350;4,6;22,9;26,4;44,3
+Gâteaux et pâtisseries;Chou à la crème pâtissière;224;4,3;34,9;7,3;26,8;51,7;;100;224;4,3;34,9;7,3;51,7
+Gâteaux et pâtisseries;Corne de gazelle (pâtisserie orientale aux amandes et sirop);471;8,55;59,3;22,1;32;8,22;;100;471;8,55;59,3;22,1;8,22
+Gâteaux et pâtisseries;Crêpe au froment pré0emballée, nature;321;6,45;57,2;7,02;6;25,5;;100;321;6,45;57,2;7,02;25,5
+Gâteaux et pâtisseries;Crêpe au froment, fourrée à la confiture;297;6,52;54,3;5,74;19,4;30,6;;100;297;6,52;54,3;5,74;30,6
+Gâteaux et pâtisseries;Crêpe au froment, fourrée au chocolat ou à la pâte à tartiner chocolat et noisettes;375;8,15;57,8;11,8;20,4;17,8;;100;375;8,15;57,8;11,8;17,8
+Gâteaux et pâtisseries;Crêpe au froment, sucrée;351;6,33;67,7;5,85;28,4;16,2;;100;351;6,33;67,7;5,85;16,2
+Gâteaux et pâtisseries;Crêpe ou galette bretonne au sarrasin;161;5,83;30,2;1,74;7,2;59;;100;161;5,83;30,2;1,74;59
+Gâteaux et pâtisseries;Crumble aux pommes;242;2,7;35,9;8,98;23,7;48,7;;100;242;2,7;35,9;8,98;48,7
+Gâteaux et pâtisseries;Éclair;302;4,66;38,4;14;13,7;40,2;;100;302;4,66;38,4;14;40,2
+Gâteaux et pâtisseries;Far aux pruneaux;392;5,5;50,4;18,5;26;23,3;;100;392;5,5;50,4;18,5;23,3
+Gâteaux et pâtisseries;Flan pâtissier aux oeufs ou à la parisienne;200;3,82;30,4;7;10,3;58;;100;200;3,82;30,4;7;58
+Gâteaux et pâtisseries;Fraisier ou framboisier;262;3,3;26,7;15,5;23,4;52,6;;100;262;3,3;26,7;15,5;52,6
+Gâteaux et pâtisseries;Galette des rois feuilletée, fourrée frangipane;456;8,8;35,7;30,4;26,4;21,9;;100;456;8,8;35,7;30,4;21,9
+Gâteaux et pâtisseries;Gâteau au chocolat;403;6,04;44,6;21,8;25,5;24,3;;100;403;6,04;44,6;21,8;24,3
+Gâteaux et pâtisseries;Gâteau au fromage blanc;220;8,4;34,3;5,3;17,6;50,6;;100;220;8,4;34,3;5,3;50,6
+Gâteaux et pâtisseries;Gâteau au fromage frais ou Cheese0cake;350;5,16;31,1;22,5;24,4;39,2;;100;350;5,16;31,1;22,5;39,2
+Gâteaux et pâtisseries;Gâteau mi0cuit au chocolat ou Moelleux au chocolat;459;6,58;45,5;27,5;38,5;17,7;;100;459;6,58;45,5;27,5;17,7
+Gâteaux et pâtisseries;Gâteau moelleux fourré au chocolat multicouche;429;5,46;52,4;21,8;35;17,7;;100;429;5,46;52,4;21,8;17,7
+Gâteaux et pâtisseries;Gâteau moelleux fourré au chocolat ou aux pépites de chocolat ou au lait;425;5,3;54,7;20,4;37,2;17;;100;425;5,3;54,7;20,4;17
+Gâteaux et pâtisseries;Gâteau moelleux fourré aux fruits type mini0roulé ou mini0cake fourré;391;4,79;65,5;11,5;25;14,4;;100;391;4,79;65,5;11,5;14,4
+Gâteaux et pâtisseries;Gâteau mousse de fruits sur génoise, type miroir;270;3,87;34,3;13;25,9;48,4;;100;270;3,87;34,3;13;48,4
+Gâteaux et pâtisseries;Gaufre bruxelloise ou liégeoise, avec ou sans chocolat, préemballée;445;7,19;58,1;20;38,7;11,7;;100;445;7,19;58,1;20;11,7
+Gâteaux et pâtisseries;Macaron moelleux fourré à la confiture ou à la crème;436;8,55;58,7;17,9;44,5;10,9;;100;436;8,55;58,7;17,9;10,9
+Gâteaux et pâtisseries;Madeleine;447;6,7;54,2;22,2;19,2;14;;100;447;6,7;54,2;22,2;14
+Gâteaux et pâtisseries;Mille0feuille;293;4,2;39,4;13,1;26,4;42,4;;100;293;4,2;39,4;13,1;42,4
+Gâteaux et pâtisseries;Pain d'épices;326;2,98;71,7;2,39;44,9;19,4;;100;326;2,98;71,7;2,39;19,4
+Gâteaux et pâtisseries;Quatre0quarts ou barre pâtissière, préemballé;433;5,73;48;23,7;27,5;18,4;;100;433;5,73;48;23,7;18,4
+Gâteaux et pâtisseries;Rocher coco ou Congolais (petit gâteau à la noix de coco);486;5,45;45,6;29,6;38,2;10,8;;100;486;5,45;45,6;29,6;10,8
+Gâteaux et pâtisseries;Tarte à la crème;291;5,9;29;16,8;5,7;48;;100;291;5,9;29;16,8;48
+Gâteaux et pâtisseries;Tarte au citron;382;5;42,7;20,9;40,9;29,1;;100;382;5;42,7;20,9;29,1
+Gâteaux et pâtisseries;Tarte aux abricots;237;3,18;29;10,7;0;50,5;;100;237;3,18;29;10,7;50,5
+Gâteaux et pâtisseries;Tarte aux fraises;236;3,2;31,1;10,7;25,4;53;;100;236;3,2;31,1;10,7;53
+Gâteaux et pâtisseries;Tarte aux fruits rouges;227;3,5;35,5;6,87;21,7;49,1;;100;227;3,5;35,5;6,87;49,1
+Gâteaux et pâtisseries;Tarte ou tartelette aux fruits;278;3,6;37;12,5;8,58;45;;100;278;3,6;37;12,5;45
+Gâteaux et pâtisseries;Tarte ou tartelette aux pommes;281;3,5;37,6;11,6;14,8;40,2;;100;281;3,5;37,6;11,6;40,2
+Jus et nectars;Abricot, nectar;57,6;0,41;12,9;0,085;12,9;84,9;;200;115,2;0,82;25,8;0,17;169,8
+Jus et nectars;Ananas, jus à base de concentré;47,8;0,352;10,6;0,1;10,6;88,3;;200;95,6;0,704;21,2;0,2;176,6
+Jus et nectars;Ananas, pur jus;48,5;0,3;11,6;0,1;11,6;86,3;;200;97;0,6;23,2;0,2;172,6
+Jus et nectars;Carotte, pur jus;26,6;0,817;5,09;0,1;5,08;92,3;;200;53,2;1,634;10,18;0,2;184,6
+Jus et nectars;Citron vert, pur jus;24,2;0,25;1,49;0,23;1,37;92,5;;200;48,4;0,5;2,98;0,46;185
+Jus et nectars;Citron, jus pressé maison;27,6;0,317;2,75;0,08;1,96;91,7;;200;55,2;0,634;5,5;0,16;183,4
+Jus et nectars;Clémentine/mandarine, pur jus;51,4;0,61;11,7;0,125;11,7;88;;200;102,8;1,22;23,4;0,25;176
+Jus et nectars;Fruit de la passion ou Maracuja, nectar;48,8;0,2;10,2;0,1;0;87;;200;97,6;0,4;20,4;0,2;174
+Jus et nectars;Jus multifruit 0 base orange, multivitaminé;46,9;0,49;10,2;0,1;10,2;87,4;;200;93,8;0,98;20,4;0,2;174,8
+Jus et nectars;Jus multifruit 0 base orange, standard;42,2;0,7;9;0,1;9,05;88,6;;200;84,4;1,4;18;0,2;177,2
+Jus et nectars;Jus multifruit 0 base pomme, multivitaminé;45,4;0,332;10,1;0,4;10,2;88,2;;200;90,8;0,664;20,2;0,8;176,4
+Jus et nectars;Jus multifruit 0 base pomme, standard;47,4;0,332;10,6;0,4;10,1;87,8;;200;94,8;0,664;21,2;0,8;175,6
+Jus et nectars;Jus multifruit, à base de concentré;47,9;0,44;10,7;0,1;10,7;87,8;;200;95,8;0,88;21,4;0,2;175,6
+Jus et nectars;Jus multifruit, pur jus, multivitaminé;46,5;0,4;10,6;0,1;10,4;87,7;;200;93;0,8;21,2;0,2;175,4
+Jus et nectars;Jus multifruit, pur jus, standard;50,7;0,44;11,6;0,1;11,6;87;;200;101,4;0,88;23,2;0,2;174
+Jus et nectars;Mangue, jus frais;40,6;0,2;9,5;0,2;9,3;86;;200;81,2;0,4;19;0,4;172
+Jus et nectars;Mangue, nectar;61,7;0,2;14,4;0,2;0;84,3;;200;123,4;0,4;28,8;0,4;168,6
+Jus et nectars;Nectar multifruit 0 base orange, multivitaminé;44,9;0,4;10,3;0,1;10,2;88,1;;200;89,8;0,8;20,6;0,2;176,2
+Jus et nectars;Nectar multifruit 0 base orange, standard;48,1;0,4;11;0,1;10,6;87,4;;200;96,2;0,8;22;0,2;174,8
+Jus et nectars;Nectar multifruit 0 base pomme, multivitaminé;44,6;0,1;9,95;0,4;9,1;88,7;;200;89,2;0,2;19,9;0,8;177,4
+Jus et nectars;Nectar multifruit 0 base pomme, standard;44;0,28;9,62;0,4;9,62;88,7;;200;88;0,56;19,24;0,8;177,4
+Jus et nectars;Nectar multifruit, multivitaminé;46;0,29;10,5;0,1;10,4;87,9;;200;92;0,58;21;0,2;175,8
+Jus et nectars;Nectar multifruit, standard;55,2;0,272;12,9;0,09;9,45;85,9;;200;110,4;0,544;25,8;0,18;171,8
+Jus et nectars;"Noix de coco, ""lait""";192;2,02;6,33;17,6;1,8;72,9;;200;384;4,04;12,66;35,2;145,8
+Jus et nectars;Noix de coco, eau;19,8;0,51;3,91;0,2;2,61;95;;200;39,6;1,02;7,82;0,4;190
+Jus et nectars;Orange, jus à base de concentré;42,4;0,71;8,85;0,25;8,21;88,7;;200;84,8;1,42;17,7;0,5;177,4
+Jus et nectars;Orange, jus pressé maison;43,5;0,633;9,3;0,133;8,23;88,6;;200;87;1,266;18,6;0,266;177,2
+Jus et nectars;Orange, nectar;38,8;0,35;8,39;0,1;8,08;89,6;;200;77,6;0,7;16,78;0,2;179,2
+Jus et nectars;Orange, pur jus;43,7;0,708;9,39;0,0954;8,69;88,2;;200;87,4;1,416;18,78;0,1908;176,4
+Jus et nectars;Pamplemousse (pomélo), jus à base de concentré;36,7;0,507;7,59;0,1;7,62;89,9;;200;73,4;1,014;15,18;0,2;179,8
+Jus et nectars;Pamplemousse (pomélo), jus frais;38,4;0,4;8,04;0,05;8,04;89,9;;200;76,8;0,8;16,08;0,1;179,8
+Jus et nectars;Pamplemousse (pomélo), pur jus;37,5;0,62;8,5;0,1;8,5;88,9;;200;75;1,24;17;0,2;177,8
+Jus et nectars;Poire, nectar;62,5;0,137;14,8;0,0367;14,8;83,9;;200;125;0,274;29,6;0,0734;167,8
+Jus et nectars;Pomme, jus à base de concentré;42,6;0,07;9,96;0,23;9,65;89;;200;85,2;0,14;19,92;0,46;178
+Jus et nectars;Pomme, nectar;39;0,1;8,7;0,4;8,7;90,2;;200;78;0,2;17,4;0,8;180,4
+Jus et nectars;Pomme, pur jus;42,4;0,1;9,95;0,1;9,67;88,4;;200;84,8;0,2;19,9;0,2;176,8
+Jus et nectars;Raisin, pur jus;68,1;0,18;16,1;0,1;15,5;82,6;;200;136,2;0,36;32,2;0,2;165,2
+Jus et nectars;Tomate, pur jus;20,8;0,73;3,86;0,0333;3,51;93,5;;200;41,6;1,46;7,72;0,0666;187
+Laits;Boisson lactée aromatisée à la fraise, au lait partiellement écrémé;52,2;2,2;9,82;0,475;9,82;86,9;;150;78,3;3,3;14,73;0,7125;130,35
+Laits;Boisson lactée aromatisée au chocolat, au lait partiellement écrémé, enrichie et/ou restaurée en vitamines et/ou minéraux;68,1;3,6;10,8;1,07;9,55;83,3;;150;102,15;5,4;16,2;1,605;124,95
+Laits;Lait concentré non sucré, entier;199;7,35;25,6;7,53;10;58,1;;150;298,5;11,025;38,4;11,295;87,15
+Laits;Lait concentré sucré, entier;330;7,7;55,9;8,47;55,9;26,2;;150;495;11,55;83,85;12,705;39,3
+Laits;Lait de brebis, entier;97,6;5;5,27;6,33;5,2;82,5;;150;146,4;7,5;7,905;9,495;123,75
+Laits;Lait de chèvre, demi0écrémé, UHT;55;3,27;4,25;2,8;0;88,8;;150;82,5;4,905;6,375;4,2;133,2
+Laits;Lait de chèvre, entier, cru;57,6;3,22;4,01;3,2;4,01;88,7;;150;86,4;4,83;6,015;4,8;133,05
+Laits;Lait de chèvre, entier, UHT;64,9;3,15;4,35;3,9;4,35;87,8;;150;97,35;4,725;6,525;5,85;131,7
+Laits;Lait demi0écrémé, pasteurisé;45;3,3;4,56;1,54;0;89,8;;150;67,5;4,95;6,84;2,31;134,7
+Laits;Lait demi0écrémé, UHT;46;3,3;4,83;1,53;4,6;89,6;;150;69;4,95;7,245;2,295;134,4
+Laits;Lait écrémé, pasteurisé;33,4;3,4;4,68;0,15;4,68;91;;150;50,1;5,1;7,02;0,225;136,5
+Laits;Lait écrémé, UHT;31,5;3,28;4,32;0,15;4,3;91;;150;47,25;4,92;6,48;0,225;136,5
+Laits;Lait en poudre, demi0écrémé;421;29,1;43,9;14,6;43,9;3,7;;150;631,5;43,65;65,85;21,9;5,55
+Laits;Lait en poudre, écrémé;354;35,8;51,8;0,749;51,8;3,74;;150;531;53,7;77,7;1,1235;5,61
+Laits;Lait en poudre, entier;491;27,7;36,2;26,4;36,2;3,7;;150;736,5;41,55;54,3;39,6;5,55
+Laits;Lait entier, pasteurisé;62,9;3,2;4,62;3,54;0;87,8;;150;94,35;4,8;6,93;5,31;131,7
+Laits;Lait entier, UHT;64,6;3,2;4,67;3,71;0;87,7;;150;96,9;4,8;7,005;5,565;131,55
+Laits;Lait partiellement écrémé, aromatisé, UHT;68,4;2,9;12,9;0,6;0;83,3;;150;102,6;4,35;19,35;0,9;124,95
+Légumes;Artichaut, cru;44,4;2,8;4,92;0,2;1,44;85,2;;120;53,28;3,36;5,904;0,24;102,24
+Légumes;Artichaut, cuit;43,1;2,9;4,84;0,227;0,99;85,8;;120;51,72;3,48;5,808;0,2724;102,96
+Légumes;Asperge, appertisée, égouttée;23;3,4;0,95;0,5;0,95;93,6;;120;27,6;4,08;1,14;0,6;112,32
+Légumes;Asperge, cuite;29,7;2,68;3,18;0,32;0,81;91,5;;120;35,64;3,216;3,816;0,384;109,8
+Légumes;Aubergine, cuite;35,2;0,83;6,26;0,2;3,2;89,7;;120;42,24;0,996;7,512;0,24;107,64
+Légumes;Avocat, frais, pulpe;169;1,8;3,13;16;1,03;74;;120;202,8;2,16;3,756;19,2;88,8
+Légumes;Bette, cuite;20,6;1,88;2,03;0,08;1,1;92,6;;120;24,72;2,256;2,436;0,096;111,12
+Légumes;Betterave rouge, cuite;43,4;2,3;7,17;0,1;6,68;87,2;;120;52,08;2,76;8,604;0,12;104,64
+Légumes;Brocoli, cuit;28,7;2,1;2,82;0,51;1,39;91,9;;120;34,44;2,52;3,384;0,612;110,28
+Légumes;Cardon, cru;21,3;0,6;3,69;0,1;1,5;92,9;;120;25,56;0,72;4,428;0,12;111,48
+Légumes;Carotte, appertisée, égouttée;26,1;0,58;4,21;0,33;2,63;92,1;;120;31,32;0,696;5,052;0,396;110,52
+Légumes;Carotte, crue;36,3;0,803;6,6;0,26;4,86;89,4;;120;43,56;0,9636;7,92;0,312;107,28
+Légumes;Carotte, cuite;27,7;0,76;4,94;0,1;3,78;91,4;;120;33,24;0,912;5,928;0,12;109,68
+Légumes;Céleri branche, appertisé;11,8;0,83;1,28;0,0867;0;95;;120;14,16;0,996;1,536;0,10404;114
+Légumes;Céleri branche, cru;15,8;1,2;1,16;0,2;1,11;94,2;;120;18,96;1,44;1,392;0,24;113,04
+Légumes;Céleri branche, cuit;13,2;0,83;1,62;0,0867;1,62;95,3;;120;15,84;0,996;1,944;0,10404;114,36
+Légumes;Céleri0rave, cru;36,6;1,2;5,68;0,3;1,44;88,1;;120;43,92;1,44;6,816;0,36;105,72
+Légumes;Céleri0rave, cuit;35;0,96;4,56;0,86;0,73;90,2;;120;42;1,152;5,472;1,032;108,24
+Légumes;Champignon de Paris ou Champignon de couche, cru;25;1,8;2,73;0,43;0,2;92,9;;120;30;2,16;3,276;0,516;111,48
+Légumes;Champignon de Paris ou Champignon de couche, sauté;59;2,4;0,33;4,27;0;87;;120;70,8;2,88;0,396;5,124;104,4
+Légumes;Champignon de Paris, appertisé;21,7;2,4;0,977;0,394;0,2;93,1;;120;26,04;2,88;1,1724;0,4728;111,72
+Légumes;Champignon, tout type, appertisé, égoutté;19,8;2,37;0,456;0,397;0,456;93;;120;23,76;2,844;0,5472;0,4764;111,6
+Légumes;Champignon, tout type, cru;30,2;3,09;0,21;1,5;0,21;92,6;;120;36,24;3,708;0,252;1,8;111,12
+Légumes;Chicorée frisée, crue;12,9;1,2;0,95;0,233;0,95;95,2;;120;15,48;1,44;1,14;0,2796;114,24
+Légumes;Chou blanc, cru;29,2;1,25;4,75;0,2;0;91,5;;120;35,04;1,5;5,7;0,24;109,8
+Légumes;Chou de Bruxelles, appertisé, égoutté;38,5;2,6;3,23;1;0;88,9;;120;46,2;3,12;3,876;1,2;106,68
+Légumes;Chou de Bruxelles, cuit;41,2;2,55;6,69;0,11;1,74;87,7;;120;49,44;3,06;8,028;0,132;105,24
+Légumes;Chou rouge, cru;32,8;1,61;4,99;0,2;3,26;90,2;;120;39,36;1,932;5,988;0,24;108,24
+Légumes;Chou rouge, cuit à l'eau;22,5;0,8;2,93;0,3;2,93;92,6;;120;27;0,96;3,516;0,36;111,12
+Légumes;Chou vert, cuit;20,3;1,36;3;0,45;2,5;94,7;;120;24,36;1,632;3,6;0,54;113,64
+Légumes;Chou0fleur, cru;28,2;2,46;2,34;0,31;2,21;91,1;;120;33,84;2,952;2,808;0,372;109,32
+Légumes;Chou0fleur, cuit;25,2;1,84;2,79;0,295;2,08;92,7;;120;30,24;2,208;3,348;0,354;111,24
+Légumes;Coeur de palmier, appertisé, égoutté;33,1;2,73;3,4;0,61;0;89,7;;120;39,72;3,276;4,08;0,732;107,64
+Légumes;Concombre, cru, pulpe;12;0,59;1,63;0,19;1,38;97;;120;14,4;0,708;1,956;0,228;116,4
+Légumes;Courgette, pulpe et peau, crue;20;1,34;2,49;0,273;1,9;94,1;;120;24;1,608;2,988;0,3276;112,92
+Légumes;Courgette, pulpe et peau, cuite;19,2;1,14;2,34;0,29;1,71;94,1;;120;23,04;1,368;2,808;0,348;112,92
+Légumes;Cresson de fontaine, cru;21,2;1,6;2,09;0,3;0,3;93,1;;120;25,44;1,92;2,508;0,36;111,72
+Légumes;Échalote, crue;76,1;1,9;15,9;0,15;3,2;79,4;;120;91,32;2,28;19,08;0,18;95,28
+Légumes;Endive, crue;17,4;1,03;2,37;0,2;1,72;95;;120;20,88;1,236;2,844;0,24;114
+Légumes;Endive, cuite;17,9;0,6;2,7;0,3;0;94,8;;120;21,48;0,72;3,24;0,36;113,76
+Légumes;Épinard, cru;34,5;2,7;3,2;0,425;0,53;91,5;;120;41,4;3,24;3,84;0,51;109,8
+Légumes;Épinard, cuit;26,8;2,97;1,87;0,14;0,43;90,7;;120;32,16;3,564;2,244;0,168;108,84
+Légumes;Fenouil, cru;21,2;0,9;3,01;0,2;1,7;93;;120;25,44;1,08;3,612;0,24;111,6
+Légumes;Fenouil, cuit à l'eau;15,5;1,13;1,63;0,1;0,5;94,4;;120;18,6;1,356;1,956;0,12;113,28
+Légumes;Haricot beurre, appertisé, égoutté;23,6;1,48;2,8;0,127;1,25;92,1;;120;28,32;1,776;3,36;0,1524;110,52
+Légumes;"Haricot mungo germé ou Pousse de ""soja"", appertisé, égoutté";28,4;1,6;3,5;0,22;0,4;91,7;;120;34,08;1,92;4,2;0,264;110,04
+Légumes;"Haricot mungo germé ou Pousse de ""soja"", frais";44,4;3,81;5,16;0,52;3,38;88,9;;120;53,28;4,572;6,192;0,624;106,68
+Légumes;Haricot vert, appertisé, égoutté;23,9;1,35;2,75;0,1;0,86;91,6;;120;28,68;1,62;3,3;0,12;109,92
+Légumes;Haricot vert, cuit;33,3;1,35;5,08;0,155;2,26;89,7;;120;39,96;1,62;6,096;0,186;107,64
+Légumes;Haricot vert, surgelé, cuit;32;1,7;4,43;0,1;1,14;90;;120;38,4;2,04;5,316;0,12;108
+Légumes;Laitue romaine, crue;18,2;1;1,28;0,6;1,19;94,7;;120;21,84;1,2;1,536;0,72;113,64
+Légumes;Laitue, crue;13,6;1,34;1,39;0,2;0,63;95,8;;120;16,32;1,608;1,668;0,24;114,96
+Légumes;Laitue, cuite;12,2;1,2;0;0,14;0;95;;120;14,64;1,44;0;0,168;114
+Légumes;Légumes, mélange surgelé;127;3,33;13,5;5,55;4;71,3;;120;152,4;3,996;16,2;6,66;85,56
+Légumes;Macédoine de légumes, appertisée, égouttée;47,6;1,9;6,71;0,8;2,41;86,7;;120;57,12;2,28;8,052;0,96;104,04
+Légumes;Mâche, crue;20,9;2,02;1,25;0,395;0;93,2;;120;25,08;2,424;1,5;0,474;111,84
+Légumes;Maïs doux, appertisé, égoutté;103;2,95;17,8;1,39;3,54;72,9;;120;123,6;3,54;21,36;1,668;87,48
+Légumes;Maïs doux, en épis, cuit;99,9;3,41;16,4;1,5;4,77;74,5;;120;119,88;4,092;19,68;1,8;89,4
+Légumes;Navet, cuit;21,4;0,71;3,1;0,2;2,99;93,2;;120;25,68;0,852;3,72;0,24;111,84
+Légumes;Navet, pelé, cru;21,1;0,945;2,39;0,26;2,19;93;;120;25,32;1,134;2,868;0,312;111,6
+Légumes;Oseille, crue;21,3;2;0,3;0,7;0;93;;120;25,56;2,4;0,36;0,84;111,6
+Légumes;Oseille, cuite à l'eau;21,7;1,83;2,93;0,14;2,8;93,6;;120;26,04;2,196;3,516;0,168;112,32
+Légumes;Petit pois, appertisé, égoutté;87,3;5,36;12,7;0,4;1,77;74,7;;120;104,76;6,432;15,24;0,48;89,64
+Légumes;Petit pois, cuit;70,8;5,18;8,27;0,555;3,86;79,2;;120;84,96;6,216;9,924;0,666;95,04
+Légumes;Petits pois et carottes, appertisés, égouttés;53,4;2,78;8,92;0,285;4,49;85,1;;120;64,08;3,336;10,704;0,342;102,12
+Légumes;Pissenlit, cru;52;2,85;6,9;0,85;0,71;85,3;;120;62,4;3,42;8,28;1,02;102,36
+Légumes;Poireau, cru;29,2;2,08;3,35;0,28;3,35;90,9;;120;35,04;2,496;4,02;0,336;109,08
+Légumes;Poireau, cuit;24,6;0,81;3,28;0,2;2,11;92,1;;120;29,52;0,972;3,936;0,24;110,52
+Légumes;Poivron rouge, cru;34,3;1;5,73;0,4;4,2;90,4;;120;41,16;1,2;6,876;0,48;108,48
+Légumes;Poivron rouge, cuit;33,4;1,1;5,74;0,4;4,39;89,5;;120;40,08;1,32;6,888;0,48;107,4
+Légumes;Poivron vert, cru;21,3;0,8;3,08;0,3;1,93;93,9;;120;25,56;0,96;3,696;0,36;112,68
+Légumes;Poivron vert, cuit;28,5;1;4,39;0,5;3,19;92,6;;120;34,2;1,2;5,268;0,6;111,12
+Légumes;Poivron, vert, jaune ou rouge, cru;26,7;0,9;4,2;0,3;4,2;92;;120;32,04;1,08;5,04;0,36;110,4
+Légumes;Poivron, vert, jaune ou rouge, cuit;28,9;0,92;4,8;0,4;4,7;91,9;;120;34,68;1,104;5,76;0,48;110,28
+Légumes;Potiron, appertisé, égoutté;68,1;0,75;14,9;0,19;3,3;81,8;;120;81,72;0,9;17,88;0,228;98,16
+Légumes;Potiron, cuit;13,6;0,6;1,9;0,1;0,6;95,3;;120;16,32;0,72;2,28;0,12;114,36
+Légumes;Pourpier, cru, feuilles;16,1;1,75;0,755;0,2;0;93,9;;120;19,32;2,1;0,906;0,24;112,68
+Légumes;Radis noir, cru;17,8;2,8;0,6;0,1;0;93,6;;120;21,36;3,36;0,72;0,12;112,32
+Légumes;Radis rouge, cru;13,1;0,76;1,77;0,1;1,77;95,4;;120;15,72;0,912;2,124;0,12;114,48
+Légumes;Salade verte, sans assaisonnement;15,5;0,7;2,31;0,1;1,7;95,1;;120;18,6;0,84;2,772;0,12;114,12
+Légumes;Salsifis, appertisé, égoutté;28,3;1,5;3,66;0,3;1,31;91,4;;120;33,96;1,8;4,392;0,36;109,68
+Légumes;Salsifis, cuit;46,3;2,73;7,5;0,135;2,9;86,8;;120;55,56;3,276;9;0,162;104,16
+Légumes;Scarole, crue;17,8;1,4;0,95;0,25;0,7;92,9;;120;21,36;1,68;1,14;0,3;111,48
+Légumes;Tomate cerise crue;29,4;0,8;5;0,8;3;92;;120;35,28;0,96;6;0,96;110,4
+Légumes;Tomate entière, pelée, appertisée, égouttée;16,2;0,92;1,93;0,2;1,93;94,6;;120;19,44;1,104;2,316;0,24;113,52
+Légumes;Tomate, concentré;91,5;3,27;16,3;0,53;14,7;72;;120;109,8;3,924;19,56;0,636;86,4
+Légumes;Tomate, crue;16,4;0,8;1,72;0,26;1,68;94,5;;120;19,68;0,96;2,064;0,312;113,4
+Légumes;Tomate, pulpe, appertisée;33,2;1,64;4,74;0,28;3,5;89,4;;120;39,84;1,968;5,688;0,336;107,28
+Légumes;Tomate, purée;31,7;1,65;3,12;1,3;3,12;89,5;;120;38,04;1,98;3,744;1,56;107,4
+Légumes;Topinambour, cuit;71,2;2;12,8;0,7;9,6;80,2;;120;85,44;2,4;15,36;0,84;96,24
+Oeufs et dérivés;Blanc d'oeuf, cuit;45,7;10,3;0,71;0,18;0,71;87,8;;100;45,7;10,3;0,71;0,18;87,8
+Oeufs et dérivés;Jaune d'oeuf, cru;345;16;0,5;31;0,5;50,9;;100;345;16;0,5;31;50,9
+Oeufs et dérivés;Jaune d'oeuf, cuit;339;16,5;0,6;30,1;0,56;50,3;;100;339;16,5;0,6;30,1;50,3
+Oeufs et dérivés;Oeuf à la coque;141;12,3;0,8;9,82;0,77;74,6;;100;141;12,3;0,8;9,82;74,6
+Oeufs et dérivés;Oeuf au plat, frit, salé;205;12,7;2,43;16;0,4;67,9;;100;205;12,7;2,43;16;67,9
+Oeufs et dérivés;Oeuf au plat, sans matière grasse;147;13,8;1,01;9,72;0;74,6;;100;147;13,8;1,01;9,72;74,6
+Oeufs et dérivés;Oeuf brouillé;204;13,8;0,87;16,2;0,87;66,7;;100;204;13,8;0,87;16,2;66,7
+Oeufs et dérivés;Oeuf dur;134;13,5;0,52;8,62;0,52;76,5;;100;134;13,5;0,52;8,62;76,5
+Oeufs et dérivés;Oeuf poché;138;12,5;0,71;9,47;0,37;75,9;;100;138;12,5;0,71;9,47;75,9
+Oeufs et dérivés;Oeuf, cru;145;12,3;0,7;10,3;0,685;75,9;;100;145;12,3;0,7;10,3;75,9
+Oeufs et dérivés;Omelette au fromage;247;17,9;0,4;19,3;0,4;58,5;;100;247;17,9;0,4;19,3;58,5
+Oeufs et dérivés;Omelette aux champignons;119;8,18;0,7;9,2;0,653;79;;100;119;8,18;0,7;9,2;79
+Oeufs et dérivés;Omelette aux fines herbes;143;9,46;0,8;11,2;0,8;75,7;;100;143;9,46;0,8;11,2;75,7
+Oeufs et dérivés;Omelette aux lardons;264;12,5;0,678;23,5;0,678;61;;100;264;12,5;0,678;23,5;61
+Oeufs et dérivés;Omelette nature, avec matière grasse et sel;196;13,8;0,895;15,3;0,31;69;;100;196;13,8;0,895;15,3;69
+Pains;Pain au lait, préemballé;358;8,7;55,8;10,9;0;22,3;;50;179;4,35;27,9;5,45;11,15
+Pains;Pain complet ou intégral (à la farine T150);269;9,04;50,6;1,75;1,72;30,9;;50;134,5;4,52;25,3;0,875;15,45
+Pains;Pain courant français, 400g ou boule;258;7,54;52,3;0,95;1,8;34;;50;129;3,77;26,15;0,475;17
+Pains;Pain de mie, complet;258;8,35;42,1;4,32;5,47;35,7;;50;129;4,175;21,05;2,16;17,85
+Pains;Pain de mie, courant;281;8,2;49,2;4,7;5,39;32,9;;50;140,5;4,1;24,6;2,35;16,45
+Pains;Pain de mie, multicéréale;286;8,8;43,3;7,19;6;33,5;;50;143;4,4;21,65;3,595;16,75
+Pains;Pain de seigle, aux raisins;260;7,8;43,5;4,85;0;38;;50;130;3,9;21,75;2,425;19
+Pains;Pain de seigle, et froment;266;8,15;49,8;2,16;1,8;31,8;;50;133;4,075;24,9;1,08;15,9
+Pains;Pain grillé, domestique;340;9,56;69,8;1,16;4;13,2;;50;170;4,78;34,9;0,58;6,6
+Pains;Pain, baguette ou boule, aux céréales et graines, artisanal;301;9,34;50,9;5,03;1;27;;50;150,5;4,67;25,45;2,515;13,5
+Pains;Pain, baguette ou boule, de campagne;273;8,89;53,8;1,35;1,85;30,7;;50;136,5;4,445;26,9;0,675;15,35
+Pains;Pain, baguette, courante;286;9,33;56,6;1,47;2,12;27,4;;50;143;4,665;28,3;0,735;13,7
+Pains;Pain, baguette, sans sel;290;8,39;58,9;1,31;1,9;26,9;;50;145;4,195;29,45;0,655;13,45
+Pâtes et semoules;Couscous, graine cuite;169;3,79;35,7;0,77;0,1;57,9;;300;507;11,37;107,1;2,31;173,7
+Pâtes et semoules;Gnocchi aux pommes de terre;179;5,01;34,3;2,05;1,1;55,5;;300;537;15,03;102,9;6,15;166,5
+Pâtes et semoules;Pâtes alimentaires au blé complet, cuites;144;5;26,8;0,94;0,933;63,2;;300;432;15;80,4;2,82;189,6
+Pâtes et semoules;Pâtes alimentaires aux oeufs, cuites;168;5,8;31,8;1,46;0;59,1;;300;504;17,4;95,4;4,38;177,3
+Pâtes et semoules;Pâtes alimentaires aux oeufs, fraîches, cuites;168;5,8;32;1,3;0;59,1;;300;504;17,4;96;3,9;177,3
+Pâtes et semoules;Pâtes alimentaires cuites;151;4,85;29,7;0,753;0,47;62,1;;300;453;14,55;89,1;2,259;186,3
+Pâtes et semoules;Polenta ou semoule de maïs, cuite;61,8;1,4;13,2;0,31;0;84,7;;300;185,4;4,2;39,6;0,93;254,1
+Pâtes et semoules;Vermicelle de riz, cuite;238;4,8;52,2;0,73;0;40,9;;300;714;14,4;156,6;2,19;122,7
+Pâtes et semoules;Vermicelle de soja, cuite;60,7;0,09;14,5;0,1;0;84,4;;300;182,1;0,27;43,5;0,3;253,2
+Pizzas, crêpes et tartes salées;Crêpe fourrée béchamel fromage;182;7,31;19,1;8,3;3,3;63,5;;300;546;21,93;57,3;24,9;190,5
+Pizzas, crêpes et tartes salées;Crêpe fourrée béchamel jambon;211;7,5;26,9;8;2,5;54,3;;300;633;22,5;80,7;24;162,9
+Pizzas, crêpes et tartes salées;Crêpe fourrée béchamel jambon fromage;164;7,4;17,7;6,85;2,74;65,3;;300;492;22,2;53,1;20,55;195,9
+Pizzas, crêpes et tartes salées;Crêpe fourrée béchamel jambon fromage champignon;145;5,97;14,6;6,72;1,99;71,4;;300;435;17,91;43,8;20,16;214,2
+Pizzas, crêpes et tartes salées;Flammenkueche ou Tarte flambée aux lardons;263;8,93;26,9;13,1;2,89;48,1;;300;789;26,79;80,7;39,3;144,3
+Pizzas, crêpes et tartes salées;"Pizza ""spéciale""";240;7,88;28,4;10,1;3,91;49,1;;300;720;23,64;85,2;30,3;147,3
+Pizzas, crêpes et tartes salées;Pizza 4 fromages;244;11,3;25,3;10,4;1,45;48,4;;300;732;33,9;75,9;31,2;145,2
+Pizzas, crêpes et tartes salées;Pizza 4 saisons;188;7,08;23,8;6,62;2,08;58,6;;300;564;21,24;71,4;19,86;175,8
+Pizzas, crêpes et tartes salées;Pizza fromage;236;9;26,2;9,97;7,34;50,3;;300;708;27;78,6;29,91;150,9
+Pizzas, crêpes et tartes salées;Pizza jambon fromage;216;8,9;27,8;6,96;0;50,3;;300;648;26,7;83,4;20,88;150,9
+Pizzas, crêpes et tartes salées;Pizza jambon fromage champignons ou Pizza royale;200;10,4;22,5;6,89;0;54,8;;300;600;31,2;67,5;20,67;164,4
+Pizzas, crêpes et tartes salées;Quiche lorraine;292;10,5;22,2;18,7;1,7;52,1;;300;876;31,5;66,6;56,1;156,3
+Pizzas, crêpes et tartes salées;Tarte au fromage;263;10,4;19,8;15,6;2,19;51,5;;300;789;31,2;59,4;46,8;154,5
+Pizzas, crêpes et tartes salées;Tarte aux légumes;237;8,7;16,4;14,8;2,18;56,4;;300;711;26,1;49,2;44,4;169,2
+Pizzas, crêpes et tartes salées;Tarte aux poireaux;257;5,44;21,3;16,2;0;53,4;;300;771;16,32;63,9;48,6;160,2
+Pizzas, crêpes et tartes salées;Tarte provençale à la tomate;218;5,4;18,9;12,7;2,89;57,9;;300;654;16,2;56,7;38,1;173,7
+Pizzas, crêpes et tartes salées;Tarte saumon et oseille;230;7,08;19,5;13,5;1,95;57,4;;300;690;21,24;58,5;40,5;172,2
+Pizzas, crêpes et tartes salées;Tourte aux poireaux;258;5,38;22;16,1;2,02;53;;300;774;16,14;66;48,3;159
+Plats à base de céréales ou pâtes;Cannelloni à la viande;154;9,55;15,5;5,73;1,15;67,2;;300;462;28,65;46,5;17,19;201,6
+Plats à base de céréales ou pâtes;Couscous à la viande;152;6,7;17,2;5,78;0;66,9;;300;456;20,1;51,6;17,34;200,7
+Plats à base de céréales ou pâtes;Couscous au poulet;158;7,4;17,4;6,21;0,94;66,9;;300;474;22,2;52,2;18,63;200,7
+Plats à base de céréales ou pâtes;Couscous mouton;148;8,3;15,9;5,4;1,4;67,7;;300;444;24,9;47,7;16,2;203,1
+Plats à base de céréales ou pâtes;Couscous royal à la viande;149;8,3;15,1;5,67;0,956;67,5;;300;447;24,9;45,3;17,01;202,5
+Plats à base de céréales ou pâtes;Gratin de pâtes;150;7,9;12,6;7,34;1,88;69,5;;300;450;23,7;37,8;22,02;208,5
+Plats à base de céréales ou pâtes;Lasagnes à la bolognaise;140;6,85;12,9;6,65;3,03;71,5;;300;420;20,55;38,7;19,95;214,5
+Plats à base de céréales ou pâtes;Paella;169;8,85;22,4;4,64;0,725;61,6;;300;507;26,55;67,2;13,92;184,8
+Plats à base de céréales ou pâtes;Pâtes à la bolognaise (spaghetti, tagliatelles…);137;5,91;16,9;4,83;2,62;69,9;;300;411;17,73;50,7;14,49;209,7
+Plats à base de céréales ou pâtes;Pâtes à la carbonara (spaghetti, tagliatelles…)bi;166;6,33;17,7;7,72;0,74;67;;300;498;18,99;53,1;23,16;201
+Plats à base de céréales ou pâtes;Ravioli à la viande, sauce tomate;97,4;3;13,5;3,17;2,57;77,4;;300;292,2;9;40,5;9,51;232,2
+Plats à base de céréales ou pâtes;Ravioli frais au fromage, cuit;209;8,6;27,7;6,5;0,8;53,1;;300;627;25,8;83,1;19,5;159,3
+Plats à base de céréales ou pâtes;Riz cantonnais;141;5,2;21,1;3,69;1,24;67,7;;300;423;15,6;63,3;11,07;203,1
+Plats à base de céréales ou pâtes;Spaghetti, sauce tomate;67,4;1,9;12,6;0,4;5,04;81,9;;300;202,2;5,7;37,8;1,2;245,7
+Plats à base de fromage;Feuilleté ou Friand au fromage;332;7,22;27,5;20,6;5,88;39,3;;300;996;21,66;82,5;61,8;117,9
+Plats à base de fromage;Feuilleté ou Friand béchamel jambon fromage;347;9,4;30,7;20,5;2,37;36,4;;300;1041;28,2;92,1;61,5;109,2
+Plats à base de fromage;Fondue savoyarde;234;16,2;2,31;16,6;0,233;59,9;;300;702;48,6;6,93;49,8;179,7
+Plats à base de fromage;Fromage pané;293;13,5;18;18,4;0,6;46,1;;300;879;40,5;54;55,2;138,3
+Plats à base de fromage;Fromage pané au jambon;227;17,4;14,9;10,8;1,5;52,8;;300;681;52,2;44,7;32,4;158,4
+Plats à base de fromage;Gougère, faite maison;424;14,2;21,4;31,1;0,7;30;;300;1272;42,6;64,2;93,3;90
+Plats à base de fromage;Soufflé au fromage;198;9,9;7,43;14,2;2,5;67,3;;300;594;29,7;22,29;42,6;201,9
+Plats à base de fromage;Tartiflette;144;4,67;12,5;8,2;0,968;72,1;;300;432;14,01;37,5;24,6;216,3
+Plats à base de légumes ou légumineuses;Beignet de légumes, fait maison;161;4,18;12,9;9,89;2,18;69,9;;300;483;12,54;38,7;29,67;209,7
+Plats à base de légumes ou légumineuses;Choucroute garnie;110;4,6;1,6;9,22;0;82;;300;330;13,8;4,8;27,66;246
+Plats à base de légumes ou légumineuses;Choucroute, sans jus;31,4;1,5;5,25;0,25;4;91;;300;94,2;4,5;15,75;0,75;273
+Plats à base de légumes ou légumineuses;Escalope végétale ou Steak à base de soja;177;16,5;5,49;8;0;61,2;;300;531;49,5;16,47;24;183,6
+Plats à base de légumes ou légumineuses;Gratin dauphinois;110;3,07;12,3;4,95;1,63;76,2;;300;330;9,21;36,9;14,85;228,6
+Plats à base de légumes ou légumineuses;Gratin de chou0fleur;89,9;4,01;3,92;5,8;0;82,1;;300;269,7;12,03;11,76;17,4;246,3
+Plats à base de légumes ou légumineuses;Gratin de légumes;107;3,2;3,44;8,51;1,87;82;;300;321;9,6;10,32;25,53;246
+Plats à base de légumes ou légumineuses;Ratatouille niçoise;72,1;1,2;4,77;4,98;0;86,3;;300;216,3;3,6;14,31;14,94;258,9
+Plats à base de légumes ou légumineuses;Terrine ou mousse de légumes;134;6,8;5,55;9;0,2;75,9;;300;402;20,4;16,65;27;227,7
+Plats à base de légumes ou légumineuses;Tomate à la provençale;77,6;1,75;6,92;4,32;3,8;83,6;;300;232,8;5,25;20,76;12,96;250,8
+Plats à base de poisson ou produits aquatiques;Accra de morue;259;10;17,7;16,1;1,57;52,4;;300;777;30;53,1;48,3;157,2
+Plats à base de poisson ou produits aquatiques;Beignet de crevette;342;8,6;33,1;19,1;0;35,1;;300;1026;25,8;99,3;57,3;105,3
+Plats à base de poisson ou produits aquatiques;Bouchée à la reine, au poisson et fruits de mer;208;6,76;13,7;13,8;2,44;63,1;;300;624;20,28;41,1;41,4;189,3
+Plats à base de poisson ou produits aquatiques;Brochette de crevettes;110;16,2;1,42;4,37;1,19;75;;300;330;48,6;4,26;13,11;225
+Plats à base de poisson ou produits aquatiques;Brochette de poisson;128;18;0,941;5,71;0,863;73,8;;300;384;54;2,823;17,13;221,4
+Plats à base de poisson ou produits aquatiques;Calmar ou Calamar ou encornet, à la romaine (beignet);220;10,6;17,8;11,5;0;56,1;;300;660;31,8;53,4;34,5;168,3
+Plats à base de poisson ou produits aquatiques;Calmars ou Calamars au riz;101;6,1;11,3;3,3;0;76,7;;300;303;18,3;33,9;9,9;230,1
+Plats à base de poisson ou produits aquatiques;Carpaccio de saumon;237;16,9;0;18,8;0;64,3;;300;711;50,7;0;56,4;192,9
+Plats à base de poisson ou produits aquatiques;Feuilleté au saumon;283;9,6;20,5;17,1;1,4;46,9;;300;849;28,8;61,5;51,3;140,7
+Plats à base de poisson ou produits aquatiques;Gratin de poisson et purée ou Brandade;115;3,8;14,1;4,55;0;74,9;;300;345;11,4;42,3;13,65;224,7
+Plats à base de poisson ou produits aquatiques;Poisson (colin d'Alaska) sauce oseille;95;8,9;2,9;5,22;0,78;82;;300;285;26,7;8,7;15,66;246
+Plats à base de poisson ou produits aquatiques;Poisson à la bordelaise;172;14,8;4,3;10,4;0;67,5;;300;516;44,4;12,9;31,2;202,5
+Plats à base de poisson ou produits aquatiques;Poisson à la provençale;70,3;9,3;2,9;2,3;0;83,6;;300;210,9;27,9;8,7;6,9;250,8
+Plats à base de poisson ou produits aquatiques;Quenelle de poisson, cuite;241;9,16;21,3;13,1;0;54,6;;300;723;27,48;63,9;39,3;163,8
+Plats à base de viande ou volaille;Blanquette de veau;115;13,9;3,06;5,1;1;76,4;;300;345;41,7;9,18;15,3;229,2
+Plats à base de viande ou volaille;Blanquette de veau et riz;137;7,76;12,7;5,71;0;71;;300;411;23,28;38,1;17,13;213
+Plats à base de viande ou volaille;Boeuf aux carottes;84,9;10,2;1,08;4,18;0,196;79,9;;300;254,7;30,6;3,24;12,54;239,7
+Plats à base de viande ou volaille;Boeuf bourguignon;101;6,7;11,1;3,33;0,3;77,5;;300;303;20,1;33,3;9,99;232,5
+Plats à base de viande ou volaille;Boeuf, boulettes cuites;202;15,2;5,08;13,3;0,944;63,8;;300;606;45,6;15,24;39,9;191,4
+Plats à base de viande ou volaille;Bouchée à la reine, au poulet;258;7,1;19;16,8;2;55,4;;300;774;21,3;57;50,4;166,2
+Plats à base de viande ou volaille;Brochette d'agneau;150;13,5;2,7;9,34;1,57;72,8;;300;450;40,5;8,1;28,02;218,4
+Plats à base de viande ou volaille;Brochette de boeuf;217;18,9;2,24;14,6;1,01;62,6;;300;651;56,7;6,72;43,8;187,8
+Plats à base de viande ou volaille;Brochette de volaille;201;19,7;1,13;13;1,01;64,2;;300;603;59,1;3,39;39;192,6
+Plats à base de viande ou volaille;Brochette mixte de viande;209;19,3;1,72;13,8;1,01;63,4;;300;627;57,9;5,16;41,4;190,2
+Plats à base de viande ou volaille;Burritos ou Fajitas;172;8,22;18,5;6,53;0;61,8;;300;516;24,66;55,5;19,59;185,4
+Plats à base de viande ou volaille;Carpaccio de boeuf;278;15,2;2,38;23;0,498;57;;300;834;45,6;7,14;69;171
+Plats à base de viande ou volaille;Cassoulet, appertisé;136;8,58;8,39;6,76;1,18;71;;300;408;25,74;25,17;20,28;213
+Plats à base de viande ou volaille;Chili con carne;111;11;8,72;2,93;5,16;72,5;;300;333;33;26,16;8,79;217,5
+Plats à base de viande ou volaille;Coq au vin;91,3;8,8;3,57;4,65;1;81,7;;300;273,9;26,4;10,71;13,95;245,1
+Plats à base de viande ou volaille;Cordon bleu de volaille;230;14,7;10,9;14;1,15;57,4;;300;690;44,1;32,7;42;172,2
+Plats à base de viande ou volaille;Feuilleté ou Friand à la viande;331;12,7;17;24,2;1,43;40,4;;300;993;38,1;51;72,6;121,2
+Plats à base de viande ou volaille;Gratin d'endives et jambon;90,9;5,84;3,32;5,56;1,23;81,8;;300;272,7;17,52;9,96;16,68;245,4
+Plats à base de viande ou volaille;Hachis Parmentier;145;5,44;9,07;9,59;5,11;74,5;;300;435;16,32;27,21;28,77;223,5
+Plats à base de viande ou volaille;Légumes farcis (sauf tomate);107;4,32;4,28;7,83;2,49;81;;300;321;12,96;12,84;23,49;243
+Plats à base de viande ou volaille;Moussaka;138;7,6;4,39;9,75;2,5;76;;300;414;22,8;13,17;29,25;228
+Plats à base de viande ou volaille;Navarin d'agneau;139;11,4;3,39;8,61;1,67;73,7;;300;417;34,2;10,17;25,83;221,1
+Plats à base de viande ou volaille;Nuggets de volaille;188;13,1;7,2;11,5;0,0947;56,5;;300;564;39,3;21,6;34,5;169,5
+Plats à base de viande ou volaille;Osso buco à la milanaise;102;11;4,97;4,08;1,1;77,4;;300;306;33;14,91;12,24;232,2
+Plats à base de viande ou volaille;Paupiette de veau;182;14,9;9,79;8,94;5,71;64,1;;300;546;44,7;29,37;26,82;192,3
+Plats à base de viande ou volaille;Paupiette de volaille;166;14,4;9,47;7,58;5,72;65,8;;300;498;43,2;28,41;22,74;197,4
+Plats à base de viande ou volaille;Petit salé ou saucisse aux lentilles;131;10,8;6,53;6,14;0,02;72,1;;300;393;32,4;19,59;18,42;216,3
+Plats à base de viande ou volaille;Pot0au0feu;72,3;10,9;1,88;2,02;0;82,9;;300;216,9;32,7;5,64;6,06;248,7
+Plats à base de viande ou volaille;Potée auvergnate;88,4;5,8;3,31;5,35;0,875;82,8;;300;265,2;17,4;9,93;16,05;248,4
+Plats à base de viande ou volaille;Poulet au curry;116;17,9;0,358;4,49;0,285;72,8;;300;348;53,7;1,074;13,47;218,4
+Plats à base de viande ou volaille;Poulet au curry, avec riz ou semoule, préemballé;123;7,91;17,4;1,91;2,18;69,4;;300;369;23,73;52,2;5,73;208,2
+Plats à base de viande ou volaille;Poulet basquaise au riz;101;5,7;13,3;2,6;0,5;77,8;;300;303;17,1;39,9;7,8;233,4
+Plats à base de viande ou volaille;Poulet basquaise aux pâtes;96,6;5,7;12,3;2,6;0,8;77,8;;300;289,8;17,1;36,9;7,8;233,4
+Plats à base de viande ou volaille;Tajine de mouton;133;12,8;4,88;6,83;2,4;73;;300;399;38,4;14,64;20,49;219
+Plats à base de viande ou volaille;Tajine poulet et semoule;130;8,02;19;2,02;1,6;68,1;;300;390;24,06;57;6,06;204,3
+Plats à base de viande ou volaille;Tomate farcie;122;6,9;1,68;9,38;0,895;79,9;;300;366;20,7;5,04;28,14;239,7
+Plats à base de viande ou volaille;Tripes à la mode de Caen;104;16,4;2,39;3,24;0;76,5;;300;312;49,2;7,17;9,72;229,5
+Plats à base de viande ou volaille;Veau, escalope panée, cuite;271;22,7;12,9;14,1;0,487;47,8;;300;813;68,1;38,7;42,3;143,4
+Poissons et batraciens non transformés;Anchois commun, cru;109;19,4;0;3,48;0;73,1;;120;130,8;23,28;0;4,176;87,72
+Poissons et batraciens non transformés;Anguille, cuite au four;230;23,7;0;15;0;59,3;;120;276;28,44;0;18;71,16
+Poissons et batraciens non transformés;Anguille, pochée;217;20,5;0;15;0;62;;120;260,4;24,6;0;18;74,4
+Poissons et batraciens non transformés;Bar commun ou Loup, cru;96,4;19,3;0;2,13;0;78,6;;120;115,68;23,16;0;2,556;94,32
+Poissons et batraciens non transformés;Bar commun ou Loup, cuit au four;154;23,6;0;6,61;0;68,4;;120;184,8;28,32;0;7,932;82,08
+Poissons et batraciens non transformés;Brochet, cuit au four;96,6;21,5;0;1,18;0;76,5;;120;115,92;25,8;0;1,416;91,8
+Poissons et batraciens non transformés;Cabillaud, cuit à la vapeur;82,7;18,6;0;0,925;0;76,3;;120;99,24;22,32;0;1,11;91,56
+Poissons et batraciens non transformés;Cabillaud, cuit au four;93,7;21,4;0;0,898;0;76,3;;120;112,44;25,68;0;1,0776;91,56
+Poissons et batraciens non transformés;Carpe, cuite au four;127;20,4;0;5;0;73,3;;120;152,4;24,48;0;6;87,96
+Poissons et batraciens non transformés;Carrelet ou Plie, cuit à la vapeur;84,3;19;0;0,925;0;78;;120;101,16;22,8;0;1,11;93,6
+Poissons et batraciens non transformés;Daurade grise, Dorade grise ou Griset, crue;124;20,1;0;4,81;0;74;;120;148,8;24,12;0;5,772;88,8
+Poissons et batraciens non transformés;Églefin, à la vapeur;89;20,9;0;0,6;0;78,3;;120;106,8;25,08;0;0,72;93,96
+Poissons et batraciens non transformés;Éperlan, cru;84,9;17,4;0;1,7;0;80,2;;120;101,88;20,88;0;2,04;96,24
+Poissons et batraciens non transformés;Espadon, cuit au four;191;22,9;0;11;0;64,2;;120;229,2;27,48;0;13,2;77,04
+Poissons et batraciens non transformés;Flétan (de l'Atlantique), cru;93,1;21,1;0;0,965;0;77,7;;120;111,72;25,32;0;1,158;93,24
+Poissons et batraciens non transformés;Grenouille, cuisse, crue;66,8;16,1;0;0,267;0;81,9;;120;80,16;19,32;0;0,3204;98,28
+Poissons et batraciens non transformés;Hareng, frit;184;23;0;10,2;0;64;;120;220,8;27,6;0;12,24;76,8
+Poissons et batraciens non transformés;Hareng, grillé;181;20,1;0;11,2;0;63,9;;120;217,2;24,12;0;13,44;76,68
+Poissons et batraciens non transformés;Julienne ou Lingue, crue;81,5;18,8;0;0,7;0;79,3;;120;97,8;22,56;0;0,84;95,16
+Poissons et batraciens non transformés;Lieu noir, congelé;79,2;18,8;0;0,44;0;77;;120;95,04;22,56;0;0,528;92,4
+Poissons et batraciens non transformés;Lieu noir, cru;81,8;18,2;0;0,997;0;79,3;;120;98,16;21,84;0;1,1964;95,16
+Poissons et batraciens non transformés;Lieu noir, cuit;102;23,1;0;1,1;0;77,1;;120;122,4;27,72;0;1,32;92,52
+Poissons et batraciens non transformés;Lieu ou colin d'Alaska, cru;63,9;15,3;0;0,6;0;82,5;;120;76,68;18,36;0;0,72;99
+Poissons et batraciens non transformés;Limande, crue;78,5;16,6;0;1,34;0;80,8;;120;94,2;19,92;0;1,608;96,96
+Poissons et batraciens non transformés;Limande0sole, à la vapeur;96,6;20,6;0;1,58;0;77,1;;120;115,92;24,72;0;1,896;92,52
+Poissons et batraciens non transformés;Lotte ou Baudroie, grillée;96,6;22,7;0;0,64;0;75,4;;120;115,92;27,24;0;0,768;90,48
+Poissons et batraciens non transformés;Maquereau, cuit au four;238;23,9;0;15,8;0;61,5;;120;285,6;28,68;0;18,96;73,8
+Poissons et batraciens non transformés;Maquereau, frit;186;23,6;0;10,2;0;64,6;;120;223,2;28,32;0;12,24;77,52
+Poissons et batraciens non transformés;Merlan, à la vapeur;90,8;20,9;0;0,8;0;76;;120;108,96;25,08;0;0,96;91,2
+Poissons et batraciens non transformés;Merlan, cru;79,9;19,1;0;0,78;0;79,6;;120;95,88;22,92;0;0,936;95,52
+Poissons et batraciens non transformés;Merlan, frit;125;23,1;0;3,6;0;71,4;;120;150;27,72;0;4,32;85,68
+Poissons et batraciens non transformés;Merlu blanc du Cap, surgelé;91,5;17,6;0;2,34;0;77,1;;120;109,8;21,12;0;2,808;92,52
+Poissons et batraciens non transformés;Merlu, cuit à l'étouffée;112;21,2;0;3;0;74,4;;120;134,4;25,44;0;3,6;89,28
+Poissons et batraciens non transformés;Mulet, cuit au four;143;24,8;0;4,86;0;70,5;;120;171,6;29,76;0;5,832;84,6
+Poissons et batraciens non transformés;Perche, cuite au four;130;24,7;0;3,42;0;73,7;;120;156;29,64;0;4,104;88,44
+Poissons et batraciens non transformés;Poisson pané, frit;199;8,6;15,3;11,3;0;62,2;;120;238,8;10,32;18,36;13,56;74,64
+Poissons et batraciens non transformés;Raie, cuite au court0bouillon;98,5;23,2;0;0,63;0;73,7;;120;118,2;27,84;0;0,756;88,44
+Poissons et batraciens non transformés;Raie, cuite au four;80,1;18,9;0;0,5;0;75,9;;120;96,12;22,68;0;0,6;91,08
+Poissons et batraciens non transformés;Rascasse, crue;90,8;19;0;1,64;0;79;;120;108,96;22,8;0;1,968;94,8
+Poissons et batraciens non transformés;Rouget0barbet de roche, cuit à l'étouffée;116;23,2;0;2,6;0;74,2;;120;139,2;27,84;0;3,12;89,04
+Poissons et batraciens non transformés;Roussette, cuite;105;25,4;0;0,35;0;73,2;;120;126;30,48;0;0,42;87,84
+Poissons et batraciens non transformés;Sardine, grillée;214;30;0;10,4;0;55,7;;120;256,8;36;0;12,48;66,84
+Poissons et batraciens non transformés;Saumon, cru, élevage;181;19,9;0;11,3;0;65,9;;120;217,2;23,88;0;13,56;79,08
+Poissons et batraciens non transformés;Saumon, cuit à la vapeur;217;22,7;0;14;0;64,5;;120;260,4;27,24;0;16,8;77,4
+Poissons et batraciens non transformés;Sole, cuite à la vapeur;94,5;20,3;0;1,48;0;77;;120;113,4;24,36;0;1,776;92,4
+Poissons et batraciens non transformés;Sole, cuite au four;73;16;0;1;0;83;;120;87,6;19,2;0;1,2;99,6
+Poissons et batraciens non transformés;Thon, cru;136;23,7;0;4,6;0;70,4;;120;163,2;28,44;0;5,52;84,48
+Poissons et batraciens non transformés;Thon, cuit au four;136;29,9;0;1,83;0;66,8;;120;163,2;35,88;0;2,196;80,16
+Poissons et batraciens non transformés;Tilapia du Nil, cru, élevage;86;17;0;2;0;78,4;;120;103,2;20,4;0;2,4;94,08
+Poissons et batraciens non transformés;Truite arc en ciel, élevage, cuite à la vapeur;125;20;0;4,99;0;75;;120;150;24;0;5,988;90
+Poissons et batraciens non transformés;Truite arc en ciel, élevage, cuite au four;135;22,4;0;4,99;0;69,3;;120;162;26,88;0;5,988;83,16
+Poissons et batraciens non transformés;Truite, cuite à la vapeur;121;19;0;4,99;0;75;;120;145,2;22,8;0;5,988;90
+Poissons et batraciens non transformés;Truite, cuite au four;136;22,8;0;4,99;0;71;;120;163,2;27,36;0;5,988;85,2
+Poissons et batraciens non transformés;Turbot, cuit au four;122;22,7;0;3,5;0;72,7;;120;146,4;27,24;0;4,2;87,24
+Pommes de terre et apparentés;Patate douce, cuite;79,1;1,69;16,3;0,145;6,11;78;;150;118,65;2,535;24,45;0,2175;117
+Pommes de terre et apparentés;Pomme de terre avec peau, cuite à la vapeur;89,5;1,87;19,1;0,22;0,7;77;;150;134,25;2,805;28,65;0,33;115,5
+Pommes de terre et apparentés;Pomme de terre dauphine, cuite;328;3,35;34,8;19,4;0;41;;150;492;5,025;52,2;29,1;61,5
+Pommes de terre et apparentés;Pomme de terre de conservation, cuite à l'eau, sans peau;73,2;1,97;15;0,1;0;79,6;;150;109,8;2,955;22,5;0,15;119,4
+Pommes de terre et apparentés;Pomme de terre frite ou Frite, cuite, non salée;254;4,6;30;12;0;47,4;;150;381;6,9;45;18;71,1
+Pommes de terre et apparentés;Pomme de terre frite ou Frite, surgelée, cuite, non salée;232;3,49;26,6;11,7;0,637;53,9;;150;348;5,235;39,9;17,55;80,85
+Pommes de terre et apparentés;Pomme de terre noisette, précuite, surgelée;172;3,6;20,7;7,44;0;62,7;;150;258;5,4;31,05;11,16;94,05
+Pommes de terre et apparentés;Pomme de terre primeur, cuite à l'eau, sans peau;87,7;1,84;18,8;0,1;0;79,8;;150;131,55;2,76;28,2;0,15;119,7
+Pommes de terre et apparentés;Pomme de terre, chips salées;487;6,5;52,9;27;1,09;2,29;;150;730,5;9,75;79,35;40,5;3,435
+Pommes de terre et apparentés;Pomme de terre, cuite à l'eau;75,2;2;15,8;0,22;0,51;78,9;;150;112,8;3;23,7;0,33;118,35
+Pommes de terre et apparentés;Pomme de terre, flocons déshydratés au lait;350;10,9;65,8;3,02;3,24;8,07;;150;525;16,35;98,7;4,53;12,105
+Pommes de terre et apparentés;Pomme de terre, purée à base de flocons, reconstituée avec lait demi0écrémé et eau, non salée;77,1;2,4;14,6;0,515;1,3;79,5;;150;115,65;3,6;21,9;0,7725;119,25
+Pommes de terre et apparentés;Pomme de terre, purée, avec lait et beurre, non salée;91,3;2;12,6;3,35;0,885;79,2;;150;136,95;3;18,9;5,025;118,8
+Pommes de terre et apparentés;Pomme de terre, rissolée, surgelée;164;2,7;27,4;4,25;0,49;61;;150;246;4,05;41,1;6,375;91,5
+Pommes de terre et apparentés;Pomme de terre, sans peau, cuite au four;91,7;1,96;20;0,1;1,7;75,4;;150;137,55;2,94;30;0,15;113,1
+Produits à base de crustacés et mollusques;Crabe, appertisé;78,1;18,1;0,3;0,5;0;79,2;;120;93,72;21,72;0,36;0,6;95,04
+Produits à base de crustacés et mollusques;Langoustine, panée, frite;262;9,4;25,2;13,6;0;49,8;;120;314,4;11,28;30,24;16,32;59,76
+Produits à base de poissons;Anchois commun, mariné;136;23,9;2,7;3,26;2,7;60,2;;120;163,2;28,68;3,24;3,912;72,24
+Produits à base de poissons;Anchois, filets à l'huile, semi0conserve, égoutté;182;26,4;0;8,45;0,2;55,1;;120;218,4;31,68;0;10,14;66,12
+Produits à base de poissons;Caviar, semi0conserve;178;25;2,5;7,52;0;61;;120;213,6;30;3;9,024;73,2
+Produits à base de poissons;Églefin, pané, frit;198;14,7;12;10;0;59,9;;120;237,6;17,64;14,4;12;71,88
+Produits à base de poissons;Foie de morue, appertisé, égoutté;419;4,85;0;44,4;0;45,7;;120;502,8;5,82;0;53,28;54,84
+Produits à base de poissons;Haddock (fumé) ou Églefin fumé;81,4;19;0;0,6;0;78,3;;120;97,68;22,8;0;0,72;93,96
+Produits à base de poissons;Hareng fumé;142;16,5;0;8,49;0;68,3;;120;170,4;19,8;0;10,188;81,96
+Produits à base de poissons;Hareng fumé, à l'huile;194;15,1;0;14,8;0;62,6;;120;232,8;18,12;0;17,76;75,12
+Produits à base de poissons;Hareng mariné ou rollmops;199;16,5;2,7;13,6;2,01;61,2;;120;238,8;19,8;3,24;16,32;73,44
+Produits à base de poissons;Limande0sole, panée, frite;230;16;9,6;14;0;60,5;;120;276;19,2;11,52;16,8;72,6
+Produits à base de poissons;Maquereau fumé;250;20,5;0;18,7;0;59;;120;300;24,6;0;22,44;70,8
+Produits à base de poissons;Maquereau, filet au vin blanc, appertisé, égoutté;206;18,9;0;14,5;0;64,5;;120;247,2;22,68;0;17,4;77,4
+Produits à base de poissons;Maquereau, filet sauce moutarde, appertisé, égoutté;210;16,9;1,5;15,2;1,5;64,3;;120;252;20,28;1,8;18,24;77,16
+Produits à base de poissons;Maquereau, filet sauce tomate, appertisé, égoutté;207;16,4;0;15,7;0;67,9;;120;248,4;19,68;0;18,84;81,48
+Produits à base de poissons;Morue, salée, pochée;113;26;0;1,01;0;67,4;;120;135,6;31,2;0;1,212;80,88
+Produits à base de poissons;Mousse de poisson;185;13;2,79;13,5;0;65,9;;120;222;15,6;3,348;16,2;79,08
+Produits à base de poissons;Oeufs de lompe, semi0conserve;144;19,2;0;7,52;0;68,4;;120;172,8;23,04;0;9,024;82,08
+Produits à base de poissons;Pâté à base de poisson ou de crustacés;248;10,8;3,5;21,2;0;60,8;;120;297,6;12,96;4,2;25,44;72,96
+Produits à base de poissons;Pilchard, sauce tomate, appertisé, égoutté;140;16,7;0;8,1;0;70,2;;120;168;20,04;0;9,72;84,24
+Produits à base de poissons;Poisson en sauce, surgelé;110;10,6;3,61;5,82;0;76,4;;120;132;12,72;4,332;6,984;91,68
+Produits à base de poissons;Poisson, croquette, frit;254;13,2;18;14;0;52,1;;120;304,8;15,84;21,6;16,8;62,52
+Produits à base de poissons;Rillettes de saumon;231;13,6;3,4;18,1;3,4;62,8;;120;277,2;16,32;4,08;21,72;75,36
+Produits à base de poissons;Rillettes de thon;223;15,6;1,7;17,1;1,7;63,5;;120;267,6;18,72;2,04;20,52;76,2
+Produits à base de poissons;Sardine, à l'huile d'olive, conserve, égouttée;198;24,3;0;11,2;0;60,1;;120;237,6;29,16;0;13,44;72,12
+Produits à base de poissons;Sardine, à l'huile, appertisée, égouttée;222;26,4;0;12,9;0;55,8;;120;266,4;31,68;0;15,48;66,96
+Produits à base de poissons;Sardine, filets sans arêtes à l'huile d'olive, appertisés, égouttés;246;24,9;0;16,3;0;60,5;;120;295,2;29,88;0;19,56;72,6
+Produits à base de poissons;Sardine, sauce tomate, appertisée, égouttée;156;15,8;0;10,3;0;68,2;;120;187,2;18,96;0;12,36;81,84
+Produits à base de poissons;Saumon fumé;169;21,8;0;9,11;0;64,8;;120;202,8;26,16;0;10,932;77,76
+Produits à base de poissons;Surimi, bâtonnets;101;8,65;11,8;2,15;0;73,8;;120;121,2;10,38;14,16;2,58;88,56
+Produits à base de poissons;Tarama préemballé;544;6,92;10;52,9;0;29,3;;120;652,8;8,304;12;63,48;35,16
+Produits à base de poissons;Terrine de poisson;252;10;5,5;21,1;1,5;66,3;;120;302,4;12;6,6;25,32;79,56
+Produits à base de poissons;Thon à l'huile, appertisé, égoutté;231;25,8;0;14,2;0;57,9;;120;277,2;30,96;0;17,04;69,48
+Produits à base de poissons;Thon albacore, au naturel, appertisé, égoutté;115;26,4;0;1,04;0;70,4;;120;138;31,68;0;1,248;84,48
+Produits à base de poissons;Thon germon ou thon blanc à l'huile de soja, appertisé, égoutté;186;30,4;0;7,1;0;61,3;;120;223,2;36,48;0;8,52;73,56
+Produits à base de poissons;Thon germon ou Thon blanc, à l'huile d'olive, appertisé, égoutté;199;31,3;0;8,18;0;60,8;;120;238,8;37,56;0;9,816;72,96
+Produits à base de poissons;Thon germon ou thon blanc, cuit vapeur sous pression;167;30;0;5,24;0;64;;120;200,4;36;0;6,288;76,8
+Produits à base de poissons;Thon, au naturel, appertisé, égoutté;106;24,5;0;0,858;0;72,2;;120;127,2;29,4;0;1,0296;86,64
+Produits à base de poissons;Truite d'élevage, fumée;171;23,4;0;8,65;0,9;61,7;;120;205,2;28,08;0;10,38;74,04
+Riz et autres graines;Blé dur précuit, grains entiers, cuit;155;5,1;30,4;0,66;0,6;60,7;;120;186;6,12;36,48;0,792;72,84
+Riz et autres graines;Frik (blé dur immature concassé), cuit;75,9;2,1;13,9;0,48;0;79,6;;120;91,08;2,52;16,68;0,576;95,52
+Riz et autres graines;Frik (blé dur immature concassé), sec;324;9,11;56,7;2,17;0;11;;120;388,8;10,932;68,04;2,604;13,2
+Riz et autres graines;Riz blanc étuvé, cuit;151;2,91;31,1;1,44;0,055;63,5;;120;181,2;3,492;37,32;1,728;76,2
+Riz et autres graines;Riz blanc, cuit;135;2,49;28,7;0,927;0,09;66,5;;120;162;2,988;34,44;1,1124;79,8
+Riz et autres graines;Riz complet, cuit;156;3,5;31,7;1,1;0,45;61;;120;187,2;4,2;38,04;1,32;73,2
+Riz et autres graines;Riz complet, sec;354;6,85;73,3;2,8;0,657;12,3;;120;424,8;8,22;87,96;3,36;14,76
+Riz et autres graines;Riz rouge, cuit;141;3,4;28,2;0,69;0;63,1;;120;169,2;4,08;33,84;0,828;75,72
+Riz et autres graines;Riz rouge, sec;352;8;70,6;3;0;12,4;;120;422,4;9,6;84,72;3,6;14,88
+Riz et autres graines;Riz sauvage, cuit;200;6,5;40,3;0,58;0,73;48,8;;120;240;7,8;48,36;0,696;58,56
+Riz et autres graines;Riz sauvage, sec;344;11,1;69,3;0,94;2,5;11,5;;120;412,8;13,32;83,16;1,128;13,8
+Soupes et bouillons non reconstitués;Bouillon de boeuf, déshydraté;243;10,2;20,6;13,3;0;3,29;;250;607,5;25,5;51,5;33,25;8,225
+Soupes et bouillons non reconstitués;Bouillon de légumes, déshydraté;264;9,66;20,3;16;0;4,4;;250;660;24,15;50,75;40;11
+Soupes prêtes à consommer;Soupe à la tomate, préemballée à réchauffer ou déshydratée reconstituée;46;1,69;7,5;0,917;3;90,1;;250;115;4,225;18,75;2,2925;225,25
+Soupes prêtes à consommer;Soupe à la volaille et aux vermicelles, préemballée à réchauffer ou déshydratée reconstituée;16,7;1,27;2,28;0,215;0,2;95;;250;41,75;3,175;5,7;0,5375;237,5
+Soupes prêtes à consommer;Soupe à l'oignon, tout type;22;0,603;3,28;0,648;1,33;94,1;;250;55;1,5075;8,2;1,62;235,25
+Soupes prêtes à consommer;Soupe au pistou, préemballée à réchauffer ou déshydratée reconstituée;47,2;1,7;7,08;1,17;0,7;88,2;;250;118;4,25;17,7;2,925;220,5
+Soupes prêtes à consommer;Soupe au potiron, tout type;35,7;0,68;4,23;1,58;2,4;91,8;;250;89,25;1,7;10,575;3,95;229,5
+Soupes prêtes à consommer;Soupe aux lentilles, tout type;49,4;1,8;9,21;0,2;0,7;85,7;;250;123,5;4,5;23,025;0,5;214,25
+Soupes prêtes à consommer;Soupe aux poireaux et pommes de terre;27,9;0,98;5,24;0,13;0,6;91,9;;250;69,75;2,45;13,1;0,325;229,75
+Soupes prêtes à consommer;Soupe aux poireaux et pommes de terre, préemballée à réchauffer;34,1;0,98;4,59;1,11;0;91,6;;250;85,25;2,45;11,475;2,775;229
+Soupes prêtes à consommer;Soupe cuisinée aux champignons, tout type;35,1;0,79;2,15;2,28;0,72;92,3;;250;87,75;1,975;5,375;5,7;230,75
+Soupes prêtes à consommer;Soupe de légumes, déshydratée reconstituée;32,4;0,8;2,49;1,99;0,485;93;;250;81;2;6,225;4,975;232,5
+Soupes prêtes à consommer;Soupe de légumes, préemballée à réchauffer;34,5;1,79;3,03;1,37;0,899;91,4;;250;86,25;4,475;7,575;3,425;228,5
+Soupes prêtes à consommer;Soupe de légumes, tout type;24,5;0,86;3,87;0,305;2,7;92,6;;250;61,25;2,15;9,675;0,7625;231,5
+Soupes prêtes à consommer;Soupe de poissons et/ou crustacés, préemballée à réchauffer;55,5;3,6;5,69;1,89;1,15;85,8;;250;138,75;9;14,225;4,725;214,5
+Soupes prêtes à consommer;Soupe exotique chinoise;39,8;6,15;1,38;1,04;0,704;88,9;;250;99,5;15,375;3,45;2,6;222,25
+Soupes prêtes à consommer;Soupe minestrone, préemballée à réchauffer ou déshydratée reconstituée;32,6;1,95;4,8;0,4;0,7;90,9;;250;81,5;4,875;12;1;227,25
+Viandes;Agneau, collier, cru;184;16,4;0;13,2;0;68;;150;276;24,6;0;19,8;102
+Viandes;Agneau, côte filet, crue;232;16,3;0;18,5;0;62,5;;150;348;24,45;0;27,75;93,75
+Viandes;Agneau, côte première, crue;271;15,5;0;23,2;0;58,9;;150;406,5;23,25;0;34,8;88,35
+Viandes;Agneau, côtelette, grillée;234;25,7;0;14,6;0;60,6;;150;351;38,55;0;21,9;90,9
+Viandes;Agneau, épaule, maigre, rôtie;187;22,3;0;10,9;0;65;;150;280,5;33,45;0;16,35;97,5
+Viandes;Agneau, épaule, rôtie;287;30,5;0;18,3;0;53,7;;150;430,5;45,75;0;27,45;80,55
+Viandes;Agneau, gigot, cru;128;17,8;0;6,29;0;73,5;;150;192;26,7;0;9,435;110,25
+Viandes;Agneau, gigot, rôti;193;23,8;0;10,9;0;67,1;;150;289,5;35,7;0;16,35;100,65
+Viandes;Agneau, selle, crue;215;16,2;0;16,7;0;64,7;;150;322,5;24,3;0;25,05;97,05
+Viandes;Boeuf, à bourguignon, cuit;156;30;0;4,05;0;61,1;;150;234;45;0;6,075;91,65
+Viandes;Boeuf, à pot0au0feu, cuit;240;28,5;0;14;0;56,5;;150;360;42,75;0;21;84,75
+Viandes;Boeuf, bavette, crue;103;18,3;0;3,27;0;73,7;;150;154,5;27,45;0;4,905;110,55
+Viandes;Boeuf, bifteck, grillé;149;27,6;0;4,28;0;69,1;;150;223,5;41,4;0;6,42;103,65
+Viandes;Boeuf, braisé;240;32,1;0;12,4;0;55,7;;150;360;48,15;0;18,6;83,55
+Viandes;Boeuf, entrecôte, crue;227;18,4;0;17;0;62,5;;150;340,5;27,6;0;25,5;93,75
+Viandes;Boeuf, entrecôte, grillée;192;22;0;11,5;0;62;;150;288;33;0;17,25;93
+Viandes;Boeuf, faux0filet, cru;117;21,6;0;3,37;0;71,5;;150;175,5;32,4;0;5,055;107,25
+Viandes;Boeuf, faux0filet, grillé;170;23;0;8,7;0;64;;150;255;34,5;0;13,05;96
+Viandes;Boeuf, flanchet, cuit;194;27,6;0;9,31;0;63,3;;150;291;41,4;0;13,965;94,95
+Viandes;Boeuf, hampe, crue;150;18;0;8,62;0;71,5;;150;225;27;0;12,93;107,25
+Viandes;Boeuf, joue, crue;112;20;0;3,56;0;73,2;;150;168;30;0;5,34;109,8
+Viandes;Boeuf, macreuse, crue;109;19,5;0;3,49;0;74,5;;150;163,5;29,25;0;5,235;111,75
+Viandes;Boeuf, paleron, cru;139;20,1;0;6,53;0;72,3;;150;208,5;30,15;0;9,795;108,45
+Viandes;Boeuf, plat de côtes, cru;283;17,4;0;23,7;0;58,1;;150;424,5;26,1;0;35,55;87,15
+Viandes;Boeuf, rosbif, rôti;140;26,4;0;3,78;0;66,5;;150;210;39,6;0;5,67;99,75
+Viandes;Boeuf, tende de tranche, crue;116;20,6;0;3,69;0;74,7;;150;174;30,9;0;5,535;112,05
+Viandes;Cheval, entrecôte muscle, cru;118;22,1;0;3,34;0;71,5;;150;177;33,15;0;5,01;107,25
+Viandes;Cheval, faux0filet, cru;121;22,2;0;3,58;0;71,5;;150;181,5;33,3;0;5,37;107,25
+Viandes;Cheval, tende de tranche, crue;106;22,7;0;1,68;0;71,5;;150;159;34,05;0;2,52;107,25
+Viandes;Cheval, viande, rôtie;160;28,1;0;5,29;0,2;64,4;;150;240;42,15;0;7,935;96,6
+Viandes;Chevreuil, rôti;174;32,6;0;4,8;0;65;;150;261;48,9;0;7,2;97,5
+Viandes;Lapin braisé;197;30,4;0;8,41;0;58,8;;150;295,5;45,6;0;12,615;88,2
+Viandes;Lapin, viande cuite;165;20,5;0;9,2;0;68,2;;150;247,5;30,75;0;13,8;102,3
+Viandes;Lièvre, en ragoût;203;30;0;9,2;0;60,9;;150;304,5;45;0;13,8;91,35
+Viandes;Porc, côte, crue;174;18,6;0;10,6;0;69;;150;261;27,9;0;15,9;103,5
+Viandes;Porc, côte, grillée;276;25,8;0;19,1;0;55,7;;150;414;38,7;0;28,65;83,55
+Viandes;Porc, échine, rôtie;302;27,9;0;21,2;0;48,5;;150;453;41,85;0;31,8;72,75
+Viandes;Porc, épaule, crue;224;17,3;0;16,5;0;63;;150;336;25,95;0;24,75;94,5
+Viandes;Porc, épaule, cuite;253;30;0;14,8;0;55,7;;150;379,5;45;0;22,2;83,55
+Viandes;Porc, escalope de jambon, crue;129;21,5;0;4,76;0;74,4;;150;193,5;32,25;0;7,14;111,6
+Viandes;Porc, escalope de jambon, cuite;200;36;0;6,22;0;56;;150;300;54;0;9,33;84
+Viandes;Porc, filet mignon, cru;122;21,2;0;4,09;0;74,9;;150;183;31,8;0;6,135;112,35
+Viandes;Porc, filet mignon, cuit;168;26,1;0;7,08;0;65,4;;150;252;39,15;0;10,62;98,1
+Viandes;Porc, filet, maigre, cru;123;21,1;0;4,22;0;74,6;;150;184,5;31,65;0;6,33;111,9
+Viandes;Porc, filet, maigre, en rôti, cuit;195;27,5;0;9,39;0;64,3;;150;292,5;41,25;0;14,085;96,45
+Viandes;Porc, poitrine, crue;259;16,9;0;21,4;0;59,4;;150;388,5;25,35;0;32,1;89,1
+Viandes;Porc, rôti carré, cru;203;34,1;0;7,45;0;58;;150;304,5;51,15;0;11,175;87
+Viandes;Porc, rôti, cru;144;20,8;0;6,92;0;71,4;;150;216;31,2;0;10,38;107,1
+Viandes;Porc, rôti, cuit;159;23,8;1,1;6;1,1;71,3;;150;238,5;35,7;1,65;9;106,95
+Viandes;Porc, rouelle de jambon, crue;149;20,2;0;7,56;0;68;;150;223,5;30,3;0;11,34;102
+Viandes;Porc, rouelle de jambon, cuite;205;29,8;0;9,54;0;54,7;;150;307,5;44,7;0;14,31;82,05
+Viandes;Porc, travers, braisé;332;23,1;0;26,6;0;49,4;;150;498;34,65;0;39,9;74,1
+Viandes;Porc, travers, cru;235;17,8;0;18,3;0;61,6;;150;352,5;26,7;0;27,45;92,4
+Viandes;Sanglier, rôti;153;28,3;0;4,38;0;63,9;;150;229,5;42,45;0;6,57;95,85
+Viandes;Steak haché  5% MG, cru;121;19,6;0;4,69;0;73,8;;150;181,5;29,4;0;7,035;110,7
+Viandes;Steak haché  5% MG, cuit;158;26,3;0;5,85;0;66;;150;237;39,45;0;8,775;99
+Viandes;Steak haché 10% MG, cru;169;20,6;0;9,6;0;70,2;;150;253,5;30,9;0;14,4;105,3
+Viandes;Steak haché 10% MG, cuit;210;26,1;0;11,7;0;61,4;;150;315;39,15;0;17,55;92,1
+Viandes;Steak haché 15% MG, cru;199;18,7;0;13,6;0;65,9;;150;298,5;28,05;0;20,4;98,85
+Viandes;Steak haché 15% MG, cuit;239;23,6;0;16,1;0;59;;150;358,5;35,4;0;24,15;88,5
+Viandes;Steak haché 20% MG, cru;285;16,8;0;24,2;0;58,1;;150;427,5;25,2;0;36,3;87,15
+Viandes;Steak haché 20% MG, cuit;276;25,8;0;19,2;0;56,7;;150;414;38,7;0;28,8;85,05
+Viandes;Veau, collier, cru;124;17,8;0;5,92;0;73,8;;150;186;26,7;0;8,88;110,7
+Viandes;Veau, côte, crue;181;16,4;0;12,8;0;68,9;;150;271,5;24,6;0;19,2;103,35
+Viandes;Veau, côte, cuite;237;25,2;0;15,1;0,2;58,4;;150;355,5;37,8;0;22,65;87,6
+Viandes;Veau, épaule, crue;116;18,5;0;4,63;0;74,9;;150;174;27,75;0;6,945;112,35
+Viandes;Veau, escalope, cuite;149;31;0;2,75;0;65;;150;223,5;46,5;0;4,125;97,5
+Viandes;Veau, filet, rôti;138;28,4;0;2,75;0;65,1;;150;207;42,6;0;4,125;97,65
+Viandes;Veau, jarret, cru;109;19;0;3,65;0;75,4;;150;163,5;28,5;0;5,475;113,1
+Viandes;Veau, mijoté;198;30,8;0;8,35;0;60,1;;150;297;46,2;0;12,525;90,15
+Viandes;Veau, noix, crue;102;19,6;0;2,57;0;75,4;;150;153;29,4;0;3,855;113,1
+Viandes;Veau, poitrine, crue;120;19,5;0;4,63;0;73;;150;180;29,25;0;6,945;109,5
+Viandes;Veau, rôti;120;21;0;3,96;0,1;76,4;;150;180;31,5;0;5,94;114,6
+Volailles;Caille, viande et peau, cuite;198;25,1;0;10,9;0;60;;150;297;37,65;0;16,35;90
+Volailles;Canard, magret, cuit à la poêle;205;26,7;0;10,9;0,6;62,9;;150;307,5;40,05;0;16,35;94,35
+Volailles;Canard, viande rôtie;194;23,3;0;11,2;0;63,1;;150;291;34,95;0;16,8;94,65
+Volailles;Dinde, escalope, crue;106;23,8;0;1,11;0;74,2;;150;159;35,7;0;1,665;111,3
+Volailles;Dinde, escalope, sautée;127;28,5;0;1,44;0;66,3;;150;190,5;42,75;0;2,16;99,45
+Volailles;Dinde, viande, rôtie;161;26,4;0;1,74;0;59;;150;241,5;39,6;0;2,61;88,5
+Volailles;Faisan, viande, rôtie;238;32,4;0;12,1;0;54,2;;150;357;48,6;0;18,15;81,3
+Volailles;Oie, viande, rôtie;274;29,1;0;17,5;0;52;;150;411;43,65;0;26,25;78
+Volailles;Pigeon, viande, rôtie;213;23,9;0;13;0;62;;150;319,5;35,85;0;19,5;93
+Volailles;Poule, viande et peau, bouillie;319;25,4;0;24,2;0;49,5;;150;478,5;38,1;0;36,3;74,25
+Volailles;Poule, viande, bouillie;229;30,4;0;11,9;0;56,4;;150;343,5;45,6;0;17,85;84,6
+Volailles;Poulet, blanc, sans peau, cuit;121;26,2;0;1,76;0,35;72,5;;150;181,5;39,3;0;2,64;108,75
+Volailles;Poulet, cuisse, viande et peau, rôti;190;26;0;9,57;0;65,7;;150;285;39;0;14,355;98,55
+Volailles;Poulet, cuisse, viande, bouilli;191;26,2;0;9,6;0;64,1;;150;286,5;39,3;0;14,4;96,15
+Volailles;Poulet, manchons marinés et rôtis;213;22,4;2,1;12,6;0;60,2;;150;319,5;33,6;3,15;18,9;90,3
+Volailles;Poulet, viande et peau, rôti;205;28,8;0;9,88;0;59,7;;150;307,5;43,2;0;14,82;89,55
+Yaourts et spécialités laitières type yaourts;yaourt 0% aromatisé sucré;55;4,3;8,41;0,163;6,51;85,2;;125;68,75;5,375;10,5125;0,20375;106,5
+Yaourts et spécialités laitières type yaourts;yaourt 0% aux céréales;58,8;4,6;6,87;1,08;5,65;85,7;;125;73,5;5,75;8,5875;1,35;107,125
+Yaourts et spécialités laitières type yaourts;yaourt 0% aux fruits;42,1;4,3;4,43;0,32;4,26;88,3;;125;52,625;5,375;5,5375;0,4;110,375
+Yaourts et spécialités laitières type yaourts;yaourt 0%, nature;42,4;4,33;5,13;0,309;4,8;88,1;;125;53;5,4125;6,4125;0,38625;110,125
+Yaourts et spécialités laitières type yaourts;Yaourt à boire aromatisé;84,2;2,68;14,8;1,28;12,7;79,8;;125;105,25;3,35;18,5;1,6;99,75
+Yaourts et spécialités laitières type yaourts;Yaourt à boire aux fruits;85,3;2,76;13,9;1,77;11,1;79,8;;125;106,625;3,45;17,375;2,2125;99,75
