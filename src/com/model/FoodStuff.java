@@ -71,15 +71,15 @@ public class FoodStuff {
     }
 
     public String toString(){
-        String str ="";
-        str += "Name : " +  name + "\n";
-        str += "Portion : " + portion + "g\n";
-        str += "Energy value : " + energyValue + "kcal\n";
-        str += "Protein value : " + proteinValue + "g\n";
-        str += "Lipid value : " + lipidValue + "g\n";
-        str += "Carbohydrates value : " + carbohydratesValue + "g\n"; // = glucides
-        str += "Water value : " + waterValue + "g\n";
-        return str;
+//        String str ="";
+//        str += "Name : " +  name + "\n";
+//        str += "Portion : " + portion + "g\n";
+//        str += "Energy value : " + energyValue + "kcal\n";
+//        str += "Protein value : " + proteinValue + "g\n";
+//        str += "Lipid value : " + lipidValue + "g\n";
+//        str += "Carbohydrates value : " + carbohydratesValue + "g\n"; // = glucides
+//        str += "Water value : " + waterValue + "g\n";
+        return name;
     }
 
 }

@@ -2,6 +2,7 @@ package com.view;
 
 import com.model.User;
 
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
@@ -45,14 +46,31 @@ public class UI {
 
     private int askForIntegerValue(String message){
         System.out.println(message);
-        int answer = sc.nextInt();
+        int answer = 0;
+        boolean Error = true;
+        do {
+            try {
+                answer = sc.nextInt();
+                Error = false;
+            } catch (InputMismatchException e) {
+            }
+        } while (Error);
         sc.nextLine();
         return answer;
     }
 
     private float askForFloatValue(String message){
         System.out.println(message);
-        float answer = sc.nextFloat();
+        float answer = 0;
+        boolean Error = true;
+        do {
+            try {
+                answer = sc.nextFloat();
+                Error = false;
+            } catch (InputMismatchException e) {
+                sc.nextLine();
+            }
+        } while (Error);
         sc.nextLine();
         return answer;
     }

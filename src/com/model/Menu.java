@@ -1,5 +1,10 @@
 package com.model;
 
+import com.model.IAcore.Assignment;
+import com.model.IAcore.BacktrackingStrategy;
+import com.model.IAcore.FindMenuCSP;
+import com.model.IAcore.Variable;
+
 import java.util.ArrayList;
 import java.util.Calendar;
 
@@ -10,12 +15,39 @@ import java.util.Calendar;
 public class Menu {
 
     private String name="";
-    private int energyValue;
+    private float energeticValue;
+    private float proteinValue;
+    private float lipidValue;
+    private float carbohydratesValue;
+    private float waterValue;
     private ArrayList<FoodStuff> starter = new ArrayList<>();
     private ArrayList<FoodStuff> mainDish = new ArrayList<>();
+    private ArrayList<FoodStuff> dairy = new ArrayList<>();
     private ArrayList<FoodStuff> pudding = new ArrayList<>();
     private Calendar calendar;
 
+    public Menu(float energeticValue) {
+        FindMenuCSP problem = new FindMenuCSP(energeticValue);
+        BacktrackingStrategy bts = new BacktrackingStrategy();
+//        bts.addCSPStateListener(new CSPStateListener() {
+//            @Override
+//            public void stateChanged(Assignment assignment, CSP csp) {
+//                System.out.println("Assignment evolved : " + assignment);
+//            }
+//
+//            @Override
+//            public void stateChanged(CSP csp) {
+//                System.out.println("CSP evolved : " + csp);
+//            }
+//
+//        });
+
+        Assignment sol = bts.solve(problem);
+        addMainDish((FoodStuff) sol.getAssignment(new Variable("vegetables")));
+        addMainDish((FoodStuff) sol.getAssignment(new Variable("meat")));
+        addDairy((FoodStuff) sol.getAssignment(new Variable("dairy")));
+        addPudding((FoodStuff) sol.getAssignment(new Variable("fruit")));
+    }
     public String getName() {
         return name;
     }
@@ -24,12 +56,12 @@ public class Menu {
         this.name = name;
     }
 
-    public int getEnergyValue() {
-        return energyValue;
+    public float getEnergeticValue() {
+        return energeticValue;
     }
 
-    public void setEnergyValue(int energyValue) {
-        this.energyValue = energyValue;
+    public void setEnergeticValue(int energeticValue) {
+        this.energeticValue = energeticValue;
     }
 
     public ArrayList<FoodStuff> getStarter() {
@@ -38,7 +70,7 @@ public class Menu {
 
     public void addStarter(FoodStuff fs) {
         starter.add(fs);
-        refreshEnergyValue(starter);
+        refreshNutritionalValue(starter);
     }
 
     public ArrayList<FoodStuff> getMainDish() {
@@ -47,7 +79,16 @@ public class Menu {
 
     public void addMainDish(FoodStuff fs) {
         mainDish.add(fs);
-        refreshEnergyValue(mainDish);
+        refreshNutritionalValue(mainDish);
+    }
+
+    public ArrayList<FoodStuff> getDairy() {
+        return dairy;
+    }
+
+    public void addDairy(FoodStuff fs) {
+        dairy.add(fs);
+        refreshNutritionalValue(dairy);
     }
 
     public ArrayList<FoodStuff> getPudding() {
@@ -56,7 +97,7 @@ public class Menu {
 
     public void addPudding(FoodStuff fs) {
         pudding.add(fs);
-        refreshEnergyValue(pudding);
+        refreshNutritionalValue(pudding);
     }
 
     public Calendar getCalendar() {
@@ -67,9 +108,16 @@ public class Menu {
         this.calendar = calendar;
     }
 
-    private void refreshEnergyValue(ArrayList<FoodStuff> foodStuffs){
-        for (FoodStuff fs : foodStuffs)
-            energyValue += fs.getEnergyValue();
+    private void refreshNutritionalValue(ArrayList<FoodStuff> foodStuffs) {
+        for (FoodStuff fs : foodStuffs) {
+            energeticValue += fs.getEnergyValue();
+            proteinValue += fs.getProteinValue();
+            lipidValue += fs.getLipidValue();
+            carbohydratesValue += fs.getCarbohydratesValue();
+            waterValue += fs.getWaterValue();
+        }
+
+
     }
 
 
@@ -85,11 +133,19 @@ public class Menu {
         for (FoodStuff fs : mainDish)
             str += fs.getName() + " (" + fs.getPortion() + "g); ";
         str = str.substring(0, str.length()-2);
+        str += "\nproduit laitier : ";
+        for (FoodStuff fs : dairy)
+            str += fs.getName() + " (" + fs.getPortion() + "g); ";
+        str = str.substring(0, str.length() - 2);
         str += "\ndessert : ";
         for (FoodStuff fs : pudding)
             str += fs.getName() + " (" + fs.getPortion() + "g); ";
         str = str.substring(0, str.length()-2);
-        str += "\nvaleur énergétique : " + energyValue +" kcal";
+        str += "\nvaleur énergétique : " + energeticValue + " kcal";
+        str += "\nprotéines :  " + proteinValue + " g";
+        str += "\nlipides : " + lipidValue + " g";
+        str += "\nglucides : " + carbohydratesValue + " g";
+        str += "\neau : " + waterValue + " g";
         return str;
     }
 }
