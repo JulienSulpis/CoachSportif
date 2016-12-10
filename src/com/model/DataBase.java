@@ -39,7 +39,7 @@ public class DataBase {
             int i = 0;
             while (result.next()){
                 request.add(new FoodStuff());
-                request.get(i).setName(result.getString(2));
+                request.get(i).setName(result.getString(2).replace(".", ","));
                 request.get(i).setPortion(result.getInt(3));
                 request.get(i).setEnergyValue(result.getInt(4));
                 request.get(i).setProteinValue(result.getFloat(5));
